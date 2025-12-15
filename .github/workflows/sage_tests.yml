@@ -8,6 +8,7 @@ jobs:
     # CRITICAL: This tells GitHub to run steps inside a container that has Sage installed
     container:
       image: sagemath/sagemath:latest
+      options: --user root
 
     steps:
     # 1. Check out your code into the container

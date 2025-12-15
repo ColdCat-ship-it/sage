@@ -1,0 +1,5316 @@
+nohup: ignoring input
+Processing b=1...Processing b=2...Processing b=3...Processing b=4...Processing b=5...Processing b=6...Processing b=7...Processing b=8...Processing b=9...Processing b=10...Processing b=11...Processing b=12...Scanning for specific pairs in range b=[1,200]...
+
+[Anomaly] b=2, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=23: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=37: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=49: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=71: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=73: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=121: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=157: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=193: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=233: Case 3 but has 6 factors!
+
+[Anomaly] b=2, a=235: Case 3 but has 6 factors!
+
+[Anomaly] b=2, a=275: Case 3 but has 8 factors!
+
+[Anomaly] b=2, a=293: Case 3 but has 6 factors!
+
+[Anomaly] b=2, a=337: Case 3 but has 8 factors!
+
+[Anomaly] b=2, a=341: Case 3 but has 6 factors!
+
+[Anomaly] b=2, a=427: Case 3 but has 6 factors!
+
+[Anomaly] b=2, a=431: Case 3 but has 8 factors!
+
+[Anomaly] b=2, a=473: Case 3 but has 6 factors!
+
+[Anomaly] b=2, a=521: Case 3 but has 6 factors!
+
+[Anomaly] b=2, a=523: Case 3 but has 6 factors!
+
+[Anomaly] b=2, a=539: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=557: Case 3 but has 6 factors!
+
+[Anomaly] b=2, a=719: Case 3 but has 4 factors!
+
+[Anomaly] b=2, a=949: Case 3 but has 8 factors!
+
+[Anomaly] b=4, a=11: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=25: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=73: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=97: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=4, a=119: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=125: Case 3 but has 6 factors!
+
+[Anomaly] b=4, a=127: Case 3 but has 6 factors!
+
+[Anomaly] b=4, a=179: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=187: Case 3 but has 10 factors!
+
+[Anomaly] b=4, a=209: Case 3 but has 6 factors!
+
+[Anomaly] b=4, a=233: Case 3 but has 6 factors!
+
+[Anomaly] b=4, a=331: Case 3 but has 6 factors!
+
+[Anomaly] b=4, a=395: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=425: Case 3 but has 6 factors!
+
+[Anomaly] b=4, a=443: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=449: Case 3 but has 6 factors!
+
+[Anomaly] b=4, a=469: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=503: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=505: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=515: Case 3 but has 8 factors!
+
+[Anomaly] b=4, a=539: Case 3 but has 8 factors!
+
+[Anomaly] b=4, a=565: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=601: Case 3 but has 4 factors!
+
+[Anomaly] b=4, a=631: Case 3 but has 6 factors!
+
+[Anomaly] b=4, a=659: Case 3 but has 8 factors!
+
+[Anomaly] b=4, a=727: Case 3 but has 10 factors!
+
+[Anomaly] b=4, a=845: Case 3 but has 6 factors!
+
+[Anomaly] b=4, a=865: Case 3 but has 8 factors!
+
+[Anomaly] b=4, a=997: Case 3 but has 12 factors!
+
+[Anomaly] b=6, a=7: Case 3 but has 4 factors!
+
+[Anomaly] b=6, a=25: Case 3 but has 4 factors!
+
+[Anomaly] b=6, a=35: Case 3 but has 8 factors!
+
+[Anomaly] b=6, a=59: Case 3 but has 4 factors!
+
+[Anomaly] b=6, a=67: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=73: Case 3 but has 4 factors!
+
+[Anomaly] b=6, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=131: Case 3 but has 4 factors!
+
+[Anomaly] b=6, a=145: Case 3 but has 8 factors!
+
+[Anomaly] b=6, a=163: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=175: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=223: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=233: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=235: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=239: Case 3 but has 8 factors!
+
+[Anomaly] b=6, a=241: Case 3 but has 4 factors!
+
+[Anomaly] b=6, a=253: Case 3 but has 8 factors!
+
+[Anomaly] b=6, a=295: Case 3 but has 10 factors!
+
+[Anomaly] b=6, a=329: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=359: Case 3 but has 4 factors!
+
+[Anomaly] b=6, a=385: Case 3 but has 8 factors!
+
+[Anomaly] b=6, a=389: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=431: Case 3 but has 4 factors!
+
+[Anomaly] b=6, a=461: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=503: Case 3 but has 4 factors!
+
+[Anomaly] b=6, a=509: Case 3 but has 10 factors!
+
+[Anomaly] b=6, a=521: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=583: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=595: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=623: Case 3 but has 8 factors!
+
+[Anomaly] b=6, a=631: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=679: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=703: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=707: Case 3 but has 4 factors!
+
+[Anomaly] b=6, a=713: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=751: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=793: Case 3 but has 8 factors!
+
+[Anomaly] b=6, a=799: Case 3 but has 6 factors!
+
+[Anomaly] b=6, a=917: Case 3 but has 14 factors!
+
+[Anomaly] b=8, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=43: Case 3 but has 6 factors!
+
+[Anomaly] b=8, a=47: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=65: Case 3 but has 6 factors!
+
+[Anomaly] b=8, a=95: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=8, a=131: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=157: Case 3 but has 8 factors!
+
+[Anomaly] b=8, a=191: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=205: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=241: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=263: Case 3 but has 8 factors!
+
+[Anomaly] b=8, a=299: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=331: Case 3 but has 6 factors!
+
+[Anomaly] b=8, a=347: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=455: Case 3 but has 8 factors!
+
+[Anomaly] b=8, a=587: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=617: Case 3 but has 6 factors!
+
+[Anomaly] b=8, a=643: Case 3 but has 6 factors!
+
+[Anomaly] b=8, a=653: Case 3 but has 6 factors!
+
+[Anomaly] b=8, a=707: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=709: Case 3 but has 12 factors!
+
+[Anomaly] b=8, a=731: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=767: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=785: Case 3 but has 10 factors!
+
+[Anomaly] b=8, a=875: Case 3 but has 4 factors!
+
+[Anomaly] b=8, a=965: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=11: Case 3 but has 4 factors!
+
+[Anomaly] b=10, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=10, a=59: Case 3 but has 4 factors!
+
+[Anomaly] b=10, a=97: Case 3 but has 8 factors!
+
+[Anomaly] b=10, a=133: Case 3 but has 4 factors!
+
+[Anomaly] b=10, a=193: Case 3 but has 4 factors!
+
+[Anomaly] b=10, a=257: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=263: Case 3 but has 12 factors!
+
+[Anomaly] b=10, a=283: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=299: Case 3 but has 4 factors!
+
+[Anomaly] b=10, a=329: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=389: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=401: Case 3 but has 10 factors!
+
+[Anomaly] b=10, a=403: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=563: Case 3 but has 8 factors!
+
+[Anomaly] b=10, a=617: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=641: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=691: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=709: Case 3 but has 4 factors!
+
+[Anomaly] b=10, a=731: Case 3 but has 8 factors!
+
+[Anomaly] b=10, a=761: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=779: Case 3 but has 8 factors!
+
+[Anomaly] b=10, a=821: Case 3 but has 6 factors!
+
+[Anomaly] b=10, a=841: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=31: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=35: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=41: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=49: Case 3 but has 8 factors!
+
+[Anomaly] b=12, a=55: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=85: Case 3 but has 8 factors!
+
+[Anomaly] b=12, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=103: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=113: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=139: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=143: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=163: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=173: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=187: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=203: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=209: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=275: Case 3 but has 4 factors!Processing b=13...Processing b=14...Processing b=15...Processing b=16...Processing b=17...Processing b=18...Processing b=19...Processing b=20...Processing b=21...Processing b=22...
+
+[Anomaly] b=12, a=295: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=325: Case 3 but has 12 factors!
+
+[Anomaly] b=12, a=389: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=415: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=443: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=449: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=457: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=491: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=521: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=523: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=577: Case 3 but has 8 factors!
+
+[Anomaly] b=12, a=607: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=715: Case 3 but has 10 factors!
+
+[Anomaly] b=12, a=817: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=827: Case 3 but has 4 factors!
+
+[Anomaly] b=12, a=851: Case 3 but has 8 factors!
+
+[Anomaly] b=12, a=853: Case 3 but has 16 factors!
+
+[Anomaly] b=12, a=895: Case 3 but has 14 factors!
+
+[Anomaly] b=12, a=937: Case 3 but has 8 factors!
+
+[Anomaly] b=12, a=949: Case 3 but has 8 factors!
+
+[Anomaly] b=12, a=955: Case 3 but has 6 factors!
+
+[Anomaly] b=12, a=965: Case 3 but has 14 factors!
+
+[Anomaly] b=12, a=971: Case 3 but has 8 factors!
+
+[Anomaly] b=12, a=983: Case 3 but has 4 factors!
+
+[Anomaly] b=14, a=17: Case 3 but has 4 factors!
+
+[Anomaly] b=14, a=29: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=37: Case 3 but has 4 factors!
+
+[Anomaly] b=14, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=14, a=65: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=79: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=145: Case 3 but has 4 factors!
+
+[Anomaly] b=14, a=173: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=179: Case 3 but has 4 factors!
+
+[Anomaly] b=14, a=191: Case 3 but has 4 factors!
+
+[Anomaly] b=14, a=205: Case 3 but has 4 factors!
+
+[Anomaly] b=14, a=323: Case 3 but has 8 factors!
+
+[Anomaly] b=14, a=331: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=403: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=425: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=493: Case 3 but has 4 factors!
+
+[Anomaly] b=14, a=649: Case 3 but has 12 factors!
+
+[Anomaly] b=14, a=659: Case 3 but has 8 factors!
+
+[Anomaly] b=14, a=781: Case 3 but has 8 factors!
+
+[Anomaly] b=14, a=785: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=811: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=827: Case 3 but has 8 factors!
+
+[Anomaly] b=14, a=857: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=881: Case 3 but has 6 factors!
+
+[Anomaly] b=14, a=929: Case 3 but has 10 factors!
+
+[Anomaly] b=14, a=935: Case 3 but has 4 factors!
+
+[Anomaly] b=14, a=965: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=31: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=35: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=55: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=67: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=71: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=89: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=91: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=103: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=143: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=145: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=161: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=181: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=203: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=247: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=253: Case 3 but has 8 factors!
+
+[Anomaly] b=16, a=271: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=287: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=323: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=329: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=383: Case 3 but has 8 factors!
+
+[Anomaly] b=16, a=391: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=553: Case 3 but has 8 factors!
+
+[Anomaly] b=16, a=589: Case 3 but has 8 factors!
+
+[Anomaly] b=16, a=611: Case 3 but has 8 factors!
+
+[Anomaly] b=16, a=631: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=689: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=703: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=707: Case 3 but has 4 factors!
+
+[Anomaly] b=16, a=775: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=847: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=881: Case 3 but has 10 factors!
+
+[Anomaly] b=16, a=941: Case 3 but has 6 factors!
+
+[Anomaly] b=16, a=953: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=11: Case 3 but has 4 factors!
+
+[Anomaly] b=18, a=19: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=23: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=35: Case 3 but has 8 factors!
+
+[Anomaly] b=18, a=47: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=55: Case 3 but has 8 factors!
+
+[Anomaly] b=18, a=65: Case 3 but has 4 factors!
+
+[Anomaly] b=18, a=79: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=91: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=143: Case 3 but has 8 factors!
+
+[Anomaly] b=18, a=151: Case 3 but has 10 factors!
+
+[Anomaly] b=18, a=173: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=179: Case 3 but has 8 factors!
+
+[Anomaly] b=18, a=187: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=251: Case 3 but has 4 factors!
+
+[Anomaly] b=18, a=287: Case 3 but has 4 factors!
+
+[Anomaly] b=18, a=313: Case 3 but has 8 factors!
+
+[Anomaly] b=18, a=325: Case 3 but has 4 factors!
+
+[Anomaly] b=18, a=353: Case 3 but has 10 factors!
+
+[Anomaly] b=18, a=355: Case 3 but has 10 factors!
+
+[Anomaly] b=18, a=395: Case 3 but has 12 factors!
+
+[Anomaly] b=18, a=409: Case 3 but has 4 factors!
+
+[Anomaly] b=18, a=421: Case 3 but has 4 factors!
+
+[Anomaly] b=18, a=551: Case 3 but has 8 factors!
+
+[Anomaly] b=18, a=563: Case 3 but has 4 factors!
+
+[Anomaly] b=18, a=707: Case 3 but has 12 factors!
+
+[Anomaly] b=18, a=769: Case 3 but has 4 factors!
+
+[Anomaly] b=18, a=775: Case 3 but has 10 factors!
+
+[Anomaly] b=18, a=835: Case 3 but has 6 factors!
+
+[Anomaly] b=18, a=899: Case 3 but has 8 factors!
+
+[Anomaly] b=18, a=925: Case 3 but has 8 factors!
+
+[Anomaly] b=18, a=929: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=20, a=37: Case 3 but has 4 factors!
+
+[Anomaly] b=20, a=77: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=91: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=103: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=113: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=167: Case 3 but has 4 factors!
+
+[Anomaly] b=20, a=193: Case 3 but has 4 factors!
+
+[Anomaly] b=20, a=221: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=301: Case 3 but has 4 factors!
+
+[Anomaly] b=20, a=343: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=373: Case 3 but has 8 factors!
+
+[Anomaly] b=20, a=431: Case 3 but has 8 factors!
+
+[Anomaly] b=20, a=463: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=469: Case 3 but has 4 factors!
+
+[Anomaly] b=20, a=521: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=557: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=607: Case 3 but has 10 factors!
+
+[Anomaly] b=20, a=703: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=901: Case 3 but has 8 factors!
+
+[Anomaly] b=20, a=953: Case 3 but has 6 factors!
+
+[Anomaly] b=20, a=977: Case 3 but has 6 factors!
+
+[Anomaly] b=22, a=7: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=17: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=19: Case 3 but has 6 factors!
+
+[Anomaly] b=22, a=29: Case 3 but has 6 factors!
+
+[Anomaly] b=22, a=65: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=73: Case 3 but has 6 factors!
+
+[Anomaly] b=22, a=79: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=91: Case 3 but has 6 factors!
+
+[Anomaly] b=22, a=97: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=109: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=115: Case 3 but has 6 factors!
+
+[Anomaly] b=22, a=197: Case 3 but has 6 factors!
+
+[Anomaly] b=22, a=205: Case 3 but has 8 factors!
+
+[Anomaly] b=22, a=215: Case 3 but has 8 factors!
+
+[Anomaly] b=22, a=217: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=287: Case 3 but has 8 factors!
+
+[Anomaly] b=22, a=313: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=335: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=359: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=361: Case 3 but has 8 factors!
+
+[Anomaly] b=22, a=397: Case 3 but has 8 factors!
+
+[Anomaly] b=22, a=421: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=443: Case 3 but has 8 factors!
+
+[Anomaly] b=22, a=469: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=497: Case 3 but has 6 factors!Processing b=23...Processing b=24...Processing b=25...Processing b=26...Processing b=27...Processing b=28...Processing b=29...Processing b=30...Processing b=31...Processing b=32...Processing b=33...Processing b=34...
+
+[Anomaly] b=22, a=503: Case 3 but has 8 factors!
+
+[Anomaly] b=22, a=505: Case 3 but has 8 factors!
+
+[Anomaly] b=22, a=533: Case 3 but has 6 factors!
+
+[Anomaly] b=22, a=593: Case 3 but has 6 factors!
+
+[Anomaly] b=22, a=611: Case 3 but has 4 factors!
+
+[Anomaly] b=22, a=767: Case 3 but has 8 factors!
+
+[Anomaly] b=22, a=799: Case 3 but has 6 factors!
+
+[Anomaly] b=22, a=953: Case 3 but has 10 factors!
+
+[Anomaly] b=22, a=955: Case 3 but has 10 factors!
+
+[Anomaly] b=24, a=7: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=37: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=55: Case 3 but has 8 factors!
+
+[Anomaly] b=24, a=65: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=91: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=115: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=121: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=133: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=151: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=193: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=245: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=275: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=301: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=311: Case 3 but has 8 factors!
+
+[Anomaly] b=24, a=335: Case 3 but has 8 factors!
+
+[Anomaly] b=24, a=395: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=415: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=421: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=461: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=499: Case 3 but has 10 factors!
+
+[Anomaly] b=24, a=617: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=631: Case 3 but has 10 factors!
+
+[Anomaly] b=24, a=635: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=649: Case 3 but has 8 factors!
+
+[Anomaly] b=24, a=655: Case 3 but has 10 factors!
+
+[Anomaly] b=24, a=719: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=731: Case 3 but has 8 factors!
+
+[Anomaly] b=24, a=767: Case 3 but has 4 factors!
+
+[Anomaly] b=24, a=787: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=847: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=875: Case 3 but has 8 factors!
+
+[Anomaly] b=24, a=895: Case 3 but has 6 factors!
+
+[Anomaly] b=24, a=923: Case 3 but has 12 factors!
+
+[Anomaly] b=24, a=989: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=7: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=67: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=119: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=133: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=137: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=155: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=157: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=175: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=185: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=187: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=191: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=203: Case 3 but has 8 factors!
+
+[Anomaly] b=26, a=241: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=259: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=265: Case 3 but has 8 factors!
+
+[Anomaly] b=26, a=311: Case 3 but has 8 factors!
+
+[Anomaly] b=26, a=335: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=349: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=371: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=407: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=443: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=457: Case 3 but has 12 factors!
+
+[Anomaly] b=26, a=461: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=551: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=605: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=695: Case 3 but has 4 factors!
+
+[Anomaly] b=26, a=749: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=785: Case 3 but has 6 factors!
+
+[Anomaly] b=26, a=833: Case 3 but has 18 factors!
+
+[Anomaly] b=26, a=877: Case 3 but has 8 factors!
+
+[Anomaly] b=28, a=11: Case 3 but has 4 factors!
+
+[Anomaly] b=28, a=65: Case 3 but has 4 factors!
+
+[Anomaly] b=28, a=67: Case 3 but has 6 factors!
+
+[Anomaly] b=28, a=79: Case 3 but has 4 factors!
+
+[Anomaly] b=28, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=28, a=85: Case 3 but has 4 factors!
+
+[Anomaly] b=28, a=121: Case 3 but has 4 factors!
+
+[Anomaly] b=28, a=173: Case 3 but has 6 factors!
+
+[Anomaly] b=28, a=209: Case 3 but has 6 factors!
+
+[Anomaly] b=28, a=221: Case 3 but has 10 factors!
+
+[Anomaly] b=28, a=257: Case 3 but has 6 factors!
+
+[Anomaly] b=28, a=407: Case 3 but has 8 factors!
+
+[Anomaly] b=28, a=409: Case 3 but has 8 factors!
+
+[Anomaly] b=28, a=445: Case 3 but has 8 factors!
+
+[Anomaly] b=28, a=461: Case 3 but has 6 factors!
+
+[Anomaly] b=28, a=473: Case 3 but has 6 factors!
+
+[Anomaly] b=28, a=529: Case 3 but has 8 factors!
+
+[Anomaly] b=28, a=617: Case 3 but has 6 factors!
+
+[Anomaly] b=28, a=655: Case 3 but has 6 factors!
+
+[Anomaly] b=28, a=671: Case 3 but has 8 factors!
+
+[Anomaly] b=28, a=677: Case 3 but has 6 factors!
+
+[Anomaly] b=28, a=733: Case 3 but has 4 factors!
+
+[Anomaly] b=28, a=743: Case 3 but has 4 factors!
+
+[Anomaly] b=28, a=745: Case 3 but has 4 factors!
+
+[Anomaly] b=28, a=985: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=17: Case 3 but has 8 factors!
+
+[Anomaly] b=30, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=53: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=59: Case 3 but has 8 factors!
+
+[Anomaly] b=30, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=109: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=127: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=149: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=161: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=181: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=199: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=229: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=277: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=287: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=341: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=373: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=463: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=497: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=517: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=527: Case 3 but has 8 factors!
+
+[Anomaly] b=30, a=563: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=589: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=599: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=601: Case 3 but has 4 factors!
+
+[Anomaly] b=30, a=607: Case 3 but has 10 factors!
+
+[Anomaly] b=30, a=611: Case 3 but has 12 factors!
+
+[Anomaly] b=30, a=637: Case 3 but has 8 factors!
+
+[Anomaly] b=30, a=737: Case 3 but has 10 factors!
+
+[Anomaly] b=30, a=761: Case 3 but has 10 factors!
+
+[Anomaly] b=30, a=931: Case 3 but has 6 factors!
+
+[Anomaly] b=30, a=997: Case 3 but has 8 factors!
+
+[Anomaly] b=32, a=43: Case 3 but has 6 factors!
+
+[Anomaly] b=32, a=65: Case 3 but has 4 factors!
+
+[Anomaly] b=32, a=79: Case 3 but has 8 factors!
+
+[Anomaly] b=32, a=115: Case 3 but has 6 factors!
+
+[Anomaly] b=32, a=209: Case 3 but has 6 factors!
+
+[Anomaly] b=32, a=263: Case 3 but has 4 factors!
+
+[Anomaly] b=32, a=325: Case 3 but has 8 factors!
+
+[Anomaly] b=32, a=433: Case 3 but has 8 factors!
+
+[Anomaly] b=32, a=487: Case 3 but has 10 factors!
+
+[Anomaly] b=32, a=593: Case 3 but has 6 factors!
+
+[Anomaly] b=32, a=595: Case 3 but has 6 factors!
+
+[Anomaly] b=32, a=613: Case 3 but has 4 factors!
+
+[Anomaly] b=32, a=623: Case 3 but has 8 factors!
+
+[Anomaly] b=32, a=665: Case 3 but has 10 factors!
+
+[Anomaly] b=32, a=701: Case 3 but has 6 factors!
+
+[Anomaly] b=32, a=793: Case 3 but has 8 factors!
+
+[Anomaly] b=32, a=817: Case 3 but has 8 factors!
+
+[Anomaly] b=32, a=961: Case 3 but has 8 factors!
+
+[Anomaly] b=34, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=31: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=41: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=59: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=113: Case 3 but has 8 factors!
+
+[Anomaly] b=34, a=131: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=143: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=145: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=167: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=203: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=239: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=265: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=275: Case 3 but has 8 factors!
+
+[Anomaly] b=34, a=301: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=319: Case 3 but has 6 factors!Processing b=35...Processing b=36...Processing b=37...Processing b=38...Processing b=39...Processing b=40...Processing b=41...Processing b=42...Processing b=43...Processing b=44...
+
+[Anomaly] b=34, a=397: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=401: Case 3 but has 6 factors!
+
+[Anomaly] b=34, a=419: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=505: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=557: Case 3 but has 10 factors!
+
+[Anomaly] b=34, a=577: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=625: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=683: Case 3 but has 12 factors!
+
+[Anomaly] b=34, a=755: Case 3 but has 8 factors!
+
+[Anomaly] b=34, a=851: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=869: Case 3 but has 6 factors!
+
+[Anomaly] b=34, a=887: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=899: Case 3 but has 4 factors!
+
+[Anomaly] b=34, a=919: Case 3 but has 10 factors!
+
+[Anomaly] b=36, a=31: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=59: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=65: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=89: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=121: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=125: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=139: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=145: Case 3 but has 8 factors!
+
+[Anomaly] b=36, a=175: Case 3 but has 10 factors!
+
+[Anomaly] b=36, a=205: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=209: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=247: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=251: Case 3 but has 8 factors!
+
+[Anomaly] b=36, a=257: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=269: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=325: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=329: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=331: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=419: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=433: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=439: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=491: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=637: Case 3 but has 8 factors!
+
+[Anomaly] b=36, a=677: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=719: Case 3 but has 8 factors!
+
+[Anomaly] b=36, a=731: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=799: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=815: Case 3 but has 12 factors!
+
+[Anomaly] b=36, a=865: Case 3 but has 8 factors!
+
+[Anomaly] b=36, a=869: Case 3 but has 10 factors!
+
+[Anomaly] b=36, a=871: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=881: Case 3 but has 6 factors!
+
+[Anomaly] b=36, a=901: Case 3 but has 4 factors!
+
+[Anomaly] b=36, a=947: Case 3 but has 8 factors!
+
+[Anomaly] b=36, a=995: Case 3 but has 8 factors!
+
+[Anomaly] b=38, a=5: Case 3 but has 10 factors!
+
+[Anomaly] b=38, a=35: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=41: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=67: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=143: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=149: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=185: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=211: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=239: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=265: Case 3 but has 8 factors!
+
+[Anomaly] b=38, a=287: Case 3 but has 8 factors!
+
+[Anomaly] b=38, a=301: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=305: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=373: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=395: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=397: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=433: Case 3 but has 8 factors!
+
+[Anomaly] b=38, a=455: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=485: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=517: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=539: Case 3 but has 8 factors!
+
+[Anomaly] b=38, a=595: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=631: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=671: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=685: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=719: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=739: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=761: Case 3 but has 14 factors!
+
+[Anomaly] b=38, a=797: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=865: Case 3 but has 8 factors!
+
+[Anomaly] b=38, a=869: Case 3 but has 6 factors!
+
+[Anomaly] b=38, a=901: Case 3 but has 8 factors!
+
+[Anomaly] b=38, a=923: Case 3 but has 4 factors!
+
+[Anomaly] b=38, a=991: Case 3 but has 6 factors!
+
+[Anomaly] b=40, a=17: Case 3 but has 8 factors!
+
+[Anomaly] b=40, a=37: Case 3 but has 4 factors!
+
+[Anomaly] b=40, a=73: Case 3 but has 6 factors!
+
+[Anomaly] b=40, a=107: Case 3 but has 4 factors!
+
+[Anomaly] b=40, a=109: Case 3 but has 8 factors!
+
+[Anomaly] b=40, a=127: Case 3 but has 4 factors!
+
+[Anomaly] b=40, a=173: Case 3 but has 6 factors!
+
+[Anomaly] b=40, a=199: Case 3 but has 6 factors!
+
+[Anomaly] b=40, a=281: Case 3 but has 10 factors!
+
+[Anomaly] b=40, a=289: Case 3 but has 8 factors!
+
+[Anomaly] b=40, a=317: Case 3 but has 6 factors!
+
+[Anomaly] b=40, a=379: Case 3 but has 10 factors!
+
+[Anomaly] b=40, a=407: Case 3 but has 8 factors!
+
+[Anomaly] b=40, a=439: Case 3 but has 6 factors!
+
+[Anomaly] b=40, a=587: Case 3 but has 8 factors!
+
+[Anomaly] b=40, a=611: Case 3 but has 8 factors!
+
+[Anomaly] b=40, a=623: Case 3 but has 4 factors!
+
+[Anomaly] b=40, a=637: Case 3 but has 4 factors!
+
+[Anomaly] b=40, a=649: Case 3 but has 8 factors!
+
+[Anomaly] b=40, a=737: Case 3 but has 6 factors!
+
+[Anomaly] b=40, a=763: Case 3 but has 6 factors!
+
+[Anomaly] b=40, a=827: Case 3 but has 4 factors!
+
+[Anomaly] b=40, a=991: Case 3 but has 6 factors!
+
+[Anomaly] b=42, a=25: Case 3 but has 6 factors!
+
+[Anomaly] b=42, a=43: Case 3 but has 6 factors!
+
+[Anomaly] b=42, a=47: Case 3 but has 6 factors!
+
+[Anomaly] b=42, a=55: Case 3 but has 8 factors!
+
+[Anomaly] b=42, a=107: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=131: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=149: Case 3 but has 6 factors!
+
+[Anomaly] b=42, a=191: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=235: Case 3 but has 6 factors!
+
+[Anomaly] b=42, a=241: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=311: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=347: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=451: Case 3 but has 6 factors!
+
+[Anomaly] b=42, a=473: Case 3 but has 6 factors!
+
+[Anomaly] b=42, a=505: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=523: Case 3 but has 6 factors!
+
+[Anomaly] b=42, a=529: Case 3 but has 8 factors!
+
+[Anomaly] b=42, a=545: Case 3 but has 10 factors!
+
+[Anomaly] b=42, a=565: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=577: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=613: Case 3 but has 12 factors!
+
+[Anomaly] b=42, a=649: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=671: Case 3 but has 8 factors!
+
+[Anomaly] b=42, a=709: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=733: Case 3 but has 8 factors!
+
+[Anomaly] b=42, a=755: Case 3 but has 8 factors!
+
+[Anomaly] b=42, a=775: Case 3 but has 10 factors!
+
+[Anomaly] b=42, a=901: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=943: Case 3 but has 6 factors!
+
+[Anomaly] b=42, a=949: Case 3 but has 4 factors!
+
+[Anomaly] b=42, a=983: Case 3 but has 12 factors!
+
+[Anomaly] b=42, a=991: Case 3 but has 10 factors!
+
+[Anomaly] b=44, a=25: Case 3 but has 6 factors!
+
+[Anomaly] b=44, a=41: Case 3 but has 4 factors!
+
+[Anomaly] b=44, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=44, a=131: Case 3 but has 12 factors!
+
+[Anomaly] b=44, a=133: Case 3 but has 4 factors!
+
+[Anomaly] b=44, a=155: Case 3 but has 4 factors!
+
+[Anomaly] b=44, a=211: Case 3 but has 6 factors!
+
+[Anomaly] b=44, a=227: Case 3 but has 4 factors!
+
+[Anomaly] b=44, a=247: Case 3 but has 6 factors!
+
+[Anomaly] b=44, a=283: Case 3 but has 6 factors!
+
+[Anomaly] b=44, a=293: Case 3 but has 6 factors!
+
+[Anomaly] b=44, a=295: Case 3 but has 6 factors!
+
+[Anomaly] b=44, a=301: Case 3 but has 8 factors!
+
+[Anomaly] b=44, a=329: Case 3 but has 6 factors!
+
+[Anomaly] b=44, a=335: Case 3 but has 4 factors!
+
+[Anomaly] b=44, a=479: Case 3 but has 4 factors!
+
+[Anomaly] b=44, a=481: Case 3 but has 8 factors!
+
+[Anomaly] b=44, a=493: Case 3 but has 12 factors!
+
+[Anomaly] b=44, a=551: Case 3 but has 8 factors!
+
+[Anomaly] b=44, a=563: Case 3 but has 4 factors!
+
+[Anomaly] b=44, a=587: Case 3 but has 8 factors!
+
+[Anomaly] b=44, a=607: Case 3 but has 6 factors!
+
+[Anomaly] b=44, a=677: Case 3 but has 6 factors!
+
+[Anomaly] b=44, a=835: Case 3 but has 6 factors!
+
+[Anomaly] b=44, a=923: Case 3 but has 4 factors!Processing b=45...Processing b=46...Processing b=47...Processing b=48...Processing b=49...Processing b=50...Processing b=51...Processing b=52...Processing b=53...Processing b=54...Processing b=55...Processing b=56...Processing b=57...Processing b=58...
+
+[Anomaly] b=46, a=41: Case 3 but has 4 factors!
+
+[Anomaly] b=46, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=46, a=79: Case 3 but has 8 factors!
+
+[Anomaly] b=46, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=46, a=97: Case 3 but has 6 factors!
+
+[Anomaly] b=46, a=119: Case 3 but has 6 factors!
+
+[Anomaly] b=46, a=155: Case 3 but has 4 factors!
+
+[Anomaly] b=46, a=157: Case 3 but has 4 factors!
+
+[Anomaly] b=46, a=175: Case 3 but has 4 factors!
+
+[Anomaly] b=46, a=187: Case 3 but has 6 factors!
+
+[Anomaly] b=46, a=203: Case 3 but has 4 factors!
+
+[Anomaly] b=46, a=205: Case 3 but has 4 factors!
+
+[Anomaly] b=46, a=293: Case 3 but has 6 factors!
+
+[Anomaly] b=46, a=301: Case 3 but has 8 factors!
+
+[Anomaly] b=46, a=493: Case 3 but has 8 factors!
+
+[Anomaly] b=46, a=515: Case 3 but has 4 factors!
+
+[Anomaly] b=46, a=527: Case 3 but has 8 factors!
+
+[Anomaly] b=46, a=643: Case 3 but has 6 factors!
+
+[Anomaly] b=46, a=731: Case 3 but has 4 factors!
+
+[Anomaly] b=46, a=749: Case 3 but has 6 factors!
+
+[Anomaly] b=46, a=821: Case 3 but has 6 factors!
+
+[Anomaly] b=46, a=857: Case 3 but has 6 factors!
+
+[Anomaly] b=46, a=869: Case 3 but has 6 factors!
+
+[Anomaly] b=46, a=947: Case 3 but has 4 factors!
+
+[Anomaly] b=48, a=35: Case 3 but has 4 factors!
+
+[Anomaly] b=48, a=55: Case 3 but has 4 factors!
+
+[Anomaly] b=48, a=85: Case 3 but has 4 factors!
+
+[Anomaly] b=48, a=97: Case 3 but has 6 factors!
+
+[Anomaly] b=48, a=137: Case 3 but has 4 factors!
+
+[Anomaly] b=48, a=193: Case 3 but has 8 factors!
+
+[Anomaly] b=48, a=245: Case 3 but has 10 factors!
+
+[Anomaly] b=48, a=247: Case 3 but has 6 factors!
+
+[Anomaly] b=48, a=289: Case 3 but has 4 factors!
+
+[Anomaly] b=48, a=331: Case 3 but has 6 factors!
+
+[Anomaly] b=48, a=341: Case 3 but has 10 factors!
+
+[Anomaly] b=48, a=365: Case 3 but has 6 factors!
+
+[Anomaly] b=48, a=395: Case 3 but has 8 factors!
+
+[Anomaly] b=48, a=407: Case 3 but has 4 factors!
+
+[Anomaly] b=48, a=421: Case 3 but has 8 factors!
+
+[Anomaly] b=48, a=449: Case 3 but has 10 factors!
+
+[Anomaly] b=48, a=505: Case 3 but has 8 factors!
+
+[Anomaly] b=48, a=541: Case 3 but has 8 factors!
+
+[Anomaly] b=48, a=577: Case 3 but has 8 factors!
+
+[Anomaly] b=48, a=635: Case 3 but has 4 factors!
+
+[Anomaly] b=48, a=685: Case 3 but has 8 factors!
+
+[Anomaly] b=48, a=721: Case 3 but has 4 factors!
+
+[Anomaly] b=48, a=743: Case 3 but has 8 factors!
+
+[Anomaly] b=48, a=853: Case 3 but has 8 factors!
+
+[Anomaly] b=48, a=881: Case 3 but has 6 factors!
+
+[Anomaly] b=48, a=907: Case 3 but has 6 factors!
+
+[Anomaly] b=48, a=941: Case 3 but has 6 factors!
+
+[Anomaly] b=48, a=979: Case 3 but has 6 factors!
+
+[Anomaly] b=48, a=985: Case 3 but has 12 factors!
+
+[Anomaly] b=50, a=11: Case 3 but has 4 factors!
+
+[Anomaly] b=50, a=43: Case 3 but has 6 factors!
+
+[Anomaly] b=50, a=71: Case 3 but has 14 factors!
+
+[Anomaly] b=50, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=50, a=119: Case 3 but has 6 factors!
+
+[Anomaly] b=50, a=143: Case 3 but has 10 factors!
+
+[Anomaly] b=50, a=173: Case 3 but has 6 factors!
+
+[Anomaly] b=50, a=187: Case 3 but has 10 factors!
+
+[Anomaly] b=50, a=217: Case 3 but has 4 factors!
+
+[Anomaly] b=50, a=227: Case 3 but has 4 factors!
+
+[Anomaly] b=50, a=253: Case 3 but has 8 factors!
+
+[Anomaly] b=50, a=317: Case 3 but has 6 factors!
+
+[Anomaly] b=50, a=341: Case 3 but has 6 factors!
+
+[Anomaly] b=50, a=407: Case 3 but has 4 factors!
+
+[Anomaly] b=50, a=421: Case 3 but has 12 factors!
+
+[Anomaly] b=50, a=457: Case 3 but has 4 factors!
+
+[Anomaly] b=50, a=511: Case 3 but has 10 factors!
+
+[Anomaly] b=50, a=541: Case 3 but has 4 factors!
+
+[Anomaly] b=50, a=551: Case 3 but has 8 factors!
+
+[Anomaly] b=50, a=749: Case 3 but has 6 factors!
+
+[Anomaly] b=50, a=803: Case 3 but has 4 factors!
+
+[Anomaly] b=50, a=817: Case 3 but has 8 factors!
+
+[Anomaly] b=50, a=871: Case 3 but has 6 factors!
+
+[Anomaly] b=50, a=973: Case 3 but has 8 factors!
+
+[Anomaly] b=52, a=41: Case 3 but has 8 factors!
+
+[Anomaly] b=52, a=53: Case 3 but has 6 factors!
+
+[Anomaly] b=52, a=89: Case 3 but has 8 factors!
+
+[Anomaly] b=52, a=179: Case 3 but has 4 factors!
+
+[Anomaly] b=52, a=181: Case 3 but has 4 factors!
+
+[Anomaly] b=52, a=197: Case 3 but has 6 factors!
+
+[Anomaly] b=52, a=203: Case 3 but has 4 factors!
+
+[Anomaly] b=52, a=211: Case 3 but has 10 factors!
+
+[Anomaly] b=52, a=229: Case 3 but has 4 factors!
+
+[Anomaly] b=52, a=283: Case 3 but has 6 factors!
+
+[Anomaly] b=52, a=307: Case 3 but has 6 factors!
+
+[Anomaly] b=52, a=361: Case 3 but has 4 factors!
+
+[Anomaly] b=52, a=449: Case 3 but has 10 factors!
+
+[Anomaly] b=52, a=463: Case 3 but has 10 factors!
+
+[Anomaly] b=52, a=473: Case 3 but has 6 factors!
+
+[Anomaly] b=52, a=499: Case 3 but has 10 factors!
+
+[Anomaly] b=52, a=509: Case 3 but has 6 factors!
+
+[Anomaly] b=52, a=553: Case 3 but has 4 factors!
+
+[Anomaly] b=52, a=575: Case 3 but has 8 factors!
+
+[Anomaly] b=52, a=667: Case 3 but has 10 factors!
+
+[Anomaly] b=52, a=697: Case 3 but has 4 factors!
+
+[Anomaly] b=52, a=725: Case 3 but has 10 factors!
+
+[Anomaly] b=52, a=827: Case 3 but has 8 factors!
+
+[Anomaly] b=52, a=977: Case 3 but has 10 factors!
+
+[Anomaly] b=52, a=995: Case 3 but has 8 factors!
+
+[Anomaly] b=54, a=5: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=11: Case 3 but has 4 factors!
+
+[Anomaly] b=54, a=25: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=29: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=35: Case 3 but has 8 factors!
+
+[Anomaly] b=54, a=59: Case 3 but has 4 factors!
+
+[Anomaly] b=54, a=91: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=95: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=113: Case 3 but has 4 factors!
+
+[Anomaly] b=54, a=169: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=191: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=215: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=251: Case 3 but has 4 factors!
+
+[Anomaly] b=54, a=277: Case 3 but has 4 factors!
+
+[Anomaly] b=54, a=283: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=289: Case 3 but has 8 factors!
+
+[Anomaly] b=54, a=401: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=425: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=499: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=545: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=629: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=691: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=707: Case 3 but has 12 factors!
+
+[Anomaly] b=54, a=709: Case 3 but has 4 factors!
+
+[Anomaly] b=54, a=719: Case 3 but has 4 factors!
+
+[Anomaly] b=54, a=757: Case 3 but has 4 factors!
+
+[Anomaly] b=54, a=779: Case 3 but has 4 factors!
+
+[Anomaly] b=54, a=803: Case 3 but has 12 factors!
+
+[Anomaly] b=54, a=863: Case 3 but has 4 factors!
+
+[Anomaly] b=54, a=887: Case 3 but has 8 factors!
+
+[Anomaly] b=54, a=929: Case 3 but has 6 factors!
+
+[Anomaly] b=54, a=931: Case 3 but has 10 factors!
+
+[Anomaly] b=54, a=949: Case 3 but has 8 factors!
+
+[Anomaly] b=56, a=1: Case 3 but has 6 factors!
+
+[Anomaly] b=56, a=71: Case 3 but has 6 factors!
+
+[Anomaly] b=56, a=73: Case 3 but has 6 factors!
+
+[Anomaly] b=56, a=85: Case 3 but has 8 factors!
+
+[Anomaly] b=56, a=103: Case 3 but has 4 factors!
+
+[Anomaly] b=56, a=107: Case 3 but has 8 factors!
+
+[Anomaly] b=56, a=113: Case 3 but has 4 factors!
+
+[Anomaly] b=56, a=131: Case 3 but has 4 factors!
+
+[Anomaly] b=56, a=149: Case 3 but has 6 factors!
+
+[Anomaly] b=56, a=239: Case 3 but has 8 factors!
+
+[Anomaly] b=56, a=319: Case 3 but has 6 factors!
+
+[Anomaly] b=56, a=359: Case 3 but has 4 factors!
+
+[Anomaly] b=56, a=391: Case 3 but has 6 factors!
+
+[Anomaly] b=56, a=463: Case 3 but has 6 factors!
+
+[Anomaly] b=56, a=571: Case 3 but has 10 factors!
+
+[Anomaly] b=56, a=697: Case 3 but has 8 factors!
+
+[Anomaly] b=56, a=775: Case 3 but has 10 factors!
+
+[Anomaly] b=56, a=793: Case 3 but has 4 factors!
+
+[Anomaly] b=56, a=797: Case 3 but has 10 factors!
+
+[Anomaly] b=56, a=811: Case 3 but has 10 factors!
+
+[Anomaly] b=56, a=955: Case 3 but has 6 factors!
+
+[Anomaly] b=58, a=89: Case 3 but has 4 factors!
+
+[Anomaly] b=58, a=109: Case 3 but has 4 factors!
+
+[Anomaly] b=58, a=127: Case 3 but has 4 factors!
+
+[Anomaly] b=58, a=173: Case 3 but has 6 factors!
+
+[Anomaly] b=58, a=181: Case 3 but has 4 factors!
+
+[Anomaly] b=58, a=241: Case 3 but has 4 factors!
+
+[Anomaly] b=58, a=253: Case 3 but has 8 factors!
+
+[Anomaly] b=58, a=269: Case 3 but has 6 factors!Processing b=59...Processing b=60...Processing b=61...Processing b=62...Processing b=63...Processing b=64...Processing b=65...Processing b=66...Processing b=67...Processing b=68...
+
+[Anomaly] b=58, a=349: Case 3 but has 4 factors!
+
+[Anomaly] b=58, a=397: Case 3 but has 12 factors!
+
+[Anomaly] b=58, a=461: Case 3 but has 6 factors!
+
+[Anomaly] b=58, a=533: Case 3 but has 10 factors!
+
+[Anomaly] b=58, a=565: Case 3 but has 4 factors!
+
+[Anomaly] b=58, a=595: Case 3 but has 6 factors!
+
+[Anomaly] b=58, a=641: Case 3 but has 6 factors!
+
+[Anomaly] b=58, a=703: Case 3 but has 6 factors!
+
+[Anomaly] b=58, a=709: Case 3 but has 8 factors!
+
+[Anomaly] b=58, a=721: Case 3 but has 8 factors!
+
+[Anomaly] b=58, a=745: Case 3 but has 4 factors!
+
+[Anomaly] b=58, a=791: Case 3 but has 8 factors!
+
+[Anomaly] b=58, a=809: Case 3 but has 6 factors!
+
+[Anomaly] b=58, a=821: Case 3 but has 10 factors!
+
+[Anomaly] b=60, a=53: Case 3 but has 6 factors!
+
+[Anomaly] b=60, a=59: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=89: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=161: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=167: Case 3 but has 6 factors!
+
+[Anomaly] b=60, a=187: Case 3 but has 10 factors!
+
+[Anomaly] b=60, a=221: Case 3 but has 6 factors!
+
+[Anomaly] b=60, a=263: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=301: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=319: Case 3 but has 6 factors!
+
+[Anomaly] b=60, a=341: Case 3 but has 6 factors!
+
+[Anomaly] b=60, a=359: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=361: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=383: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=389: Case 3 but has 6 factors!
+
+[Anomaly] b=60, a=403: Case 3 but has 6 factors!
+
+[Anomaly] b=60, a=439: Case 3 but has 6 factors!
+
+[Anomaly] b=60, a=469: Case 3 but has 8 factors!
+
+[Anomaly] b=60, a=493: Case 3 but has 12 factors!
+
+[Anomaly] b=60, a=509: Case 3 but has 6 factors!
+
+[Anomaly] b=60, a=527: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=541: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=613: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=617: Case 3 but has 6 factors!
+
+[Anomaly] b=60, a=649: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=769: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=781: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=829: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=851: Case 3 but has 8 factors!
+
+[Anomaly] b=60, a=871: Case 3 but has 10 factors!
+
+[Anomaly] b=60, a=887: Case 3 but has 4 factors!
+
+[Anomaly] b=60, a=943: Case 3 but has 10 factors!
+
+[Anomaly] b=60, a=961: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=7: Case 3 but has 8 factors!
+
+[Anomaly] b=62, a=41: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=43: Case 3 but has 6 factors!
+
+[Anomaly] b=62, a=85: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=62, a=131: Case 3 but has 8 factors!
+
+[Anomaly] b=62, a=139: Case 3 but has 6 factors!
+
+[Anomaly] b=62, a=203: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=209: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=221: Case 3 but has 6 factors!
+
+[Anomaly] b=62, a=247: Case 3 but has 8 factors!
+
+[Anomaly] b=62, a=311: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=367: Case 3 but has 6 factors!
+
+[Anomaly] b=62, a=409: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=445: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=551: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=623: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=677: Case 3 but has 6 factors!
+
+[Anomaly] b=62, a=731: Case 3 but has 8 factors!
+
+[Anomaly] b=62, a=733: Case 3 but has 8 factors!
+
+[Anomaly] b=62, a=779: Case 3 but has 8 factors!
+
+[Anomaly] b=62, a=799: Case 3 but has 6 factors!
+
+[Anomaly] b=62, a=877: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=983: Case 3 but has 4 factors!
+
+[Anomaly] b=62, a=997: Case 3 but has 4 factors!
+
+[Anomaly] b=64, a=11: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=13: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=29: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=95: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=247: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=299: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=319: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=365: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=367: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=373: Case 3 but has 4 factors!
+
+[Anomaly] b=64, a=419: Case 3 but has 4 factors!
+
+[Anomaly] b=64, a=443: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=455: Case 3 but has 12 factors!
+
+[Anomaly] b=64, a=475: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=491: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=509: Case 3 but has 10 factors!
+
+[Anomaly] b=64, a=529: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=533: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=545: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=569: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=589: Case 3 but has 12 factors!
+
+[Anomaly] b=64, a=599: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=607: Case 3 but has 10 factors!
+
+[Anomaly] b=64, a=619: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=623: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=661: Case 3 but has 4 factors!
+
+[Anomaly] b=64, a=673: Case 3 but has 4 factors!
+
+[Anomaly] b=64, a=713: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=781: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=805: Case 3 but has 8 factors!
+
+[Anomaly] b=64, a=821: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=859: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=931: Case 3 but has 6 factors!
+
+[Anomaly] b=64, a=941: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=59: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=145: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=149: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=151: Case 3 but has 8 factors!
+
+[Anomaly] b=66, a=157: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=161: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=181: Case 3 but has 8 factors!
+
+[Anomaly] b=66, a=227: Case 3 but has 8 factors!
+
+[Anomaly] b=66, a=229: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=283: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=295: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=329: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=349: Case 3 but has 8 factors!
+
+[Anomaly] b=66, a=413: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=427: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=455: Case 3 but has 8 factors!
+
+[Anomaly] b=66, a=467: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=505: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=515: Case 3 but has 8 factors!
+
+[Anomaly] b=66, a=521: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=547: Case 3 but has 10 factors!
+
+[Anomaly] b=66, a=565: Case 3 but has 8 factors!
+
+[Anomaly] b=66, a=599: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=611: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=613: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=617: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=625: Case 3 but has 12 factors!
+
+[Anomaly] b=66, a=683: Case 3 but has 8 factors!
+
+[Anomaly] b=66, a=685: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=695: Case 3 but has 8 factors!
+
+[Anomaly] b=66, a=701: Case 3 but has 6 factors!
+
+[Anomaly] b=66, a=889: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=901: Case 3 but has 8 factors!
+
+[Anomaly] b=66, a=947: Case 3 but has 12 factors!
+
+[Anomaly] b=66, a=973: Case 3 but has 4 factors!
+
+[Anomaly] b=66, a=991: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=29: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=53: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=68, a=133: Case 3 but has 4 factors!
+
+[Anomaly] b=68, a=179: Case 3 but has 8 factors!
+
+[Anomaly] b=68, a=181: Case 3 but has 4 factors!
+
+[Anomaly] b=68, a=209: Case 3 but has 8 factors!
+
+[Anomaly] b=68, a=251: Case 3 but has 4 factors!
+
+[Anomaly] b=68, a=263: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=287: Case 3 but has 4 factors!
+
+[Anomaly] b=68, a=313: Case 3 but has 4 factors!
+
+[Anomaly] b=68, a=325: Case 3 but has 8 factors!
+
+[Anomaly] b=68, a=353: Case 3 but has 10 factors!
+
+[Anomaly] b=68, a=361: Case 3 but has 8 factors!
+
+[Anomaly] b=68, a=403: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=439: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=449: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=497: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=557: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=577: Case 3 but has 4 factors!
+
+[Anomaly] b=68, a=587: Case 3 but has 4 factors!Processing b=69...Processing b=70...Processing b=71...Processing b=72...Processing b=73...Processing b=74...Processing b=75...Processing b=76...Processing b=77...Processing b=78...
+
+[Anomaly] b=68, a=593: Case 3 but has 10 factors!
+
+[Anomaly] b=68, a=667: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=767: Case 3 but has 4 factors!
+
+[Anomaly] b=68, a=863: Case 3 but has 4 factors!
+
+[Anomaly] b=68, a=871: Case 3 but has 10 factors!
+
+[Anomaly] b=68, a=893: Case 3 but has 6 factors!
+
+[Anomaly] b=68, a=979: Case 3 but has 10 factors!
+
+[Anomaly] b=68, a=983: Case 3 but has 8 factors!
+
+[Anomaly] b=70, a=19: Case 3 but has 6 factors!
+
+[Anomaly] b=70, a=53: Case 3 but has 10 factors!
+
+[Anomaly] b=70, a=103: Case 3 but has 8 factors!
+
+[Anomaly] b=70, a=107: Case 3 but has 4 factors!
+
+[Anomaly] b=70, a=179: Case 3 but has 4 factors!
+
+[Anomaly] b=70, a=221: Case 3 but has 6 factors!
+
+[Anomaly] b=70, a=257: Case 3 but has 4 factors!
+
+[Anomaly] b=70, a=271: Case 3 but has 4 factors!
+
+[Anomaly] b=70, a=383: Case 3 but has 4 factors!
+
+[Anomaly] b=70, a=509: Case 3 but has 6 factors!
+
+[Anomaly] b=70, a=527: Case 3 but has 4 factors!
+
+[Anomaly] b=70, a=599: Case 3 but has 8 factors!
+
+[Anomaly] b=70, a=613: Case 3 but has 8 factors!
+
+[Anomaly] b=70, a=739: Case 3 but has 10 factors!
+
+[Anomaly] b=70, a=859: Case 3 but has 6 factors!
+
+[Anomaly] b=70, a=887: Case 3 but has 16 factors!
+
+[Anomaly] b=70, a=937: Case 3 but has 4 factors!
+
+[Anomaly] b=70, a=949: Case 3 but has 8 factors!
+
+[Anomaly] b=70, a=977: Case 3 but has 6 factors!
+
+[Anomaly] b=70, a=989: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=1: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=73: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=85: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=91: Case 3 but has 10 factors!
+
+[Anomaly] b=72, a=121: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=143: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=157: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=185: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=223: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=227: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=239: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=287: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=293: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=299: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=319: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=323: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=365: Case 3 but has 10 factors!
+
+[Anomaly] b=72, a=437: Case 3 but has 10 factors!
+
+[Anomaly] b=72, a=443: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=449: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=461: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=487: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=509: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=571: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=613: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=715: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=737: Case 3 but has 10 factors!
+
+[Anomaly] b=72, a=757: Case 3 but has 8 factors!
+
+[Anomaly] b=72, a=767: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=769: Case 3 but has 4 factors!
+
+[Anomaly] b=72, a=793: Case 3 but has 8 factors!
+
+[Anomaly] b=72, a=877: Case 3 but has 8 factors!
+
+[Anomaly] b=72, a=917: Case 3 but has 6 factors!
+
+[Anomaly] b=72, a=925: Case 3 but has 12 factors!
+
+[Anomaly] b=72, a=977: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=41: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=53: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=85: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=107: Case 3 but has 8 factors!
+
+[Anomaly] b=74, a=113: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=131: Case 3 but has 8 factors!
+
+[Anomaly] b=74, a=139: Case 3 but has 10 factors!
+
+[Anomaly] b=74, a=161: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=179: Case 3 but has 8 factors!
+
+[Anomaly] b=74, a=181: Case 3 but has 8 factors!
+
+[Anomaly] b=74, a=199: Case 3 but has 12 factors!
+
+[Anomaly] b=74, a=233: Case 3 but has 8 factors!
+
+[Anomaly] b=74, a=247: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=253: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=289: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=311: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=343: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=347: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=365: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=379: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=397: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=449: Case 3 but has 10 factors!
+
+[Anomaly] b=74, a=469: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=473: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=563: Case 3 but has 12 factors!
+
+[Anomaly] b=74, a=571: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=577: Case 3 but has 8 factors!
+
+[Anomaly] b=74, a=647: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=679: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=685: Case 3 but has 8 factors!
+
+[Anomaly] b=74, a=715: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=773: Case 3 but has 14 factors!
+
+[Anomaly] b=74, a=791: Case 3 but has 12 factors!
+
+[Anomaly] b=74, a=859: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=865: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=887: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=935: Case 3 but has 4 factors!
+
+[Anomaly] b=74, a=937: Case 3 but has 8 factors!
+
+[Anomaly] b=74, a=991: Case 3 but has 6 factors!
+
+[Anomaly] b=74, a=995: Case 3 but has 4 factors!
+
+[Anomaly] b=76, a=7: Case 3 but has 4 factors!
+
+[Anomaly] b=76, a=17: Case 3 but has 8 factors!
+
+[Anomaly] b=76, a=29: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=65: Case 3 but has 4 factors!
+
+[Anomaly] b=76, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=107: Case 3 but has 4 factors!
+
+[Anomaly] b=76, a=145: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=155: Case 3 but has 4 factors!
+
+[Anomaly] b=76, a=173: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=187: Case 3 but has 10 factors!
+
+[Anomaly] b=76, a=191: Case 3 but has 14 factors!
+
+[Anomaly] b=76, a=197: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=269: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=341: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=367: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=389: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=569: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=577: Case 3 but has 4 factors!
+
+[Anomaly] b=76, a=637: Case 3 but has 4 factors!
+
+[Anomaly] b=76, a=655: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=659: Case 3 but has 8 factors!
+
+[Anomaly] b=76, a=695: Case 3 but has 12 factors!
+
+[Anomaly] b=76, a=757: Case 3 but has 4 factors!
+
+[Anomaly] b=76, a=809: Case 3 but has 6 factors!
+
+[Anomaly] b=76, a=853: Case 3 but has 12 factors!
+
+[Anomaly] b=76, a=901: Case 3 but has 8 factors!
+
+[Anomaly] b=76, a=983: Case 3 but has 4 factors!
+
+[Anomaly] b=76, a=989: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=59: Case 3 but has 8 factors!
+
+[Anomaly] b=78, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=78, a=71: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=97: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=121: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=127: Case 3 but has 4 factors!
+
+[Anomaly] b=78, a=139: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=145: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=179: Case 3 but has 8 factors!
+
+[Anomaly] b=78, a=181: Case 3 but has 4 factors!
+
+[Anomaly] b=78, a=185: Case 3 but has 8 factors!
+
+[Anomaly] b=78, a=223: Case 3 but has 8 factors!
+
+[Anomaly] b=78, a=233: Case 3 but has 4 factors!
+
+[Anomaly] b=78, a=235: Case 3 but has 10 factors!
+
+[Anomaly] b=78, a=283: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=311: Case 3 but has 10 factors!
+
+[Anomaly] b=78, a=313: Case 3 but has 4 factors!
+
+[Anomaly] b=78, a=319: Case 3 but has 10 factors!
+
+[Anomaly] b=78, a=337: Case 3 but has 4 factors!
+
+[Anomaly] b=78, a=349: Case 3 but has 4 factors!
+
+[Anomaly] b=78, a=367: Case 3 but has 10 factors!
+
+[Anomaly] b=78, a=379: Case 3 but has 10 factors!
+
+[Anomaly] b=78, a=467: Case 3 but has 4 factors!
+
+[Anomaly] b=78, a=581: Case 3 but has 10 factors!
+
+[Anomaly] b=78, a=583: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=605: Case 3 but has 10 factors!
+
+[Anomaly] b=78, a=643: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=649: Case 3 but has 4 factors!
+
+[Anomaly] b=78, a=671: Case 3 but has 8 factors!
+
+[Anomaly] b=78, a=673: Case 3 but has 8 factors!
+
+[Anomaly] b=78, a=697: Case 3 but has 8 factors!
+
+[Anomaly] b=78, a=701: Case 3 but has 6 factors!Processing b=79...Processing b=80...Processing b=81...Processing b=82...Processing b=83...Processing b=84...Processing b=85...Processing b=86...Processing b=87...Processing b=88...Processing b=89...Processing b=90...Processing b=91...Processing b=92...
+
+[Anomaly] b=78, a=755: Case 3 but has 12 factors!
+
+[Anomaly] b=78, a=785: Case 3 but has 10 factors!
+
+[Anomaly] b=78, a=809: Case 3 but has 10 factors!
+
+[Anomaly] b=78, a=827: Case 3 but has 8 factors!
+
+[Anomaly] b=78, a=847: Case 3 but has 6 factors!
+
+[Anomaly] b=78, a=895: Case 3 but has 6 factors!
+
+[Anomaly] b=80, a=187: Case 3 but has 10 factors!
+
+[Anomaly] b=80, a=221: Case 3 but has 10 factors!
+
+[Anomaly] b=80, a=239: Case 3 but has 6 factors!
+
+[Anomaly] b=80, a=299: Case 3 but has 8 factors!
+
+[Anomaly] b=80, a=329: Case 3 but has 6 factors!
+
+[Anomaly] b=80, a=401: Case 3 but has 6 factors!
+
+[Anomaly] b=80, a=457: Case 3 but has 4 factors!
+
+[Anomaly] b=80, a=491: Case 3 but has 12 factors!
+
+[Anomaly] b=80, a=517: Case 3 but has 8 factors!
+
+[Anomaly] b=80, a=589: Case 3 but has 4 factors!
+
+[Anomaly] b=80, a=601: Case 3 but has 12 factors!
+
+[Anomaly] b=80, a=619: Case 3 but has 6 factors!
+
+[Anomaly] b=80, a=691: Case 3 but has 6 factors!
+
+[Anomaly] b=80, a=709: Case 3 but has 8 factors!
+
+[Anomaly] b=80, a=869: Case 3 but has 6 factors!
+
+[Anomaly] b=80, a=887: Case 3 but has 8 factors!
+
+[Anomaly] b=80, a=947: Case 3 but has 4 factors!
+
+[Anomaly] b=80, a=959: Case 3 but has 8 factors!
+
+[Anomaly] b=80, a=997: Case 3 but has 4 factors!
+
+[Anomaly] b=82, a=5: Case 3 but has 6 factors!
+
+[Anomaly] b=82, a=29: Case 3 but has 6 factors!
+
+[Anomaly] b=82, a=43: Case 3 but has 6 factors!
+
+[Anomaly] b=82, a=77: Case 3 but has 6 factors!
+
+[Anomaly] b=82, a=175: Case 3 but has 4 factors!
+
+[Anomaly] b=82, a=211: Case 3 but has 10 factors!
+
+[Anomaly] b=82, a=227: Case 3 but has 8 factors!
+
+[Anomaly] b=82, a=311: Case 3 but has 6 factors!
+
+[Anomaly] b=82, a=317: Case 3 but has 6 factors!
+
+[Anomaly] b=82, a=319: Case 3 but has 4 factors!
+
+[Anomaly] b=82, a=335: Case 3 but has 4 factors!
+
+[Anomaly] b=82, a=367: Case 3 but has 6 factors!
+
+[Anomaly] b=82, a=455: Case 3 but has 4 factors!
+
+[Anomaly] b=82, a=493: Case 3 but has 4 factors!
+
+[Anomaly] b=82, a=497: Case 3 but has 6 factors!
+
+[Anomaly] b=82, a=511: Case 3 but has 6 factors!
+
+[Anomaly] b=82, a=545: Case 3 but has 10 factors!
+
+[Anomaly] b=82, a=659: Case 3 but has 4 factors!
+
+[Anomaly] b=82, a=671: Case 3 but has 8 factors!
+
+[Anomaly] b=82, a=803: Case 3 but has 4 factors!
+
+[Anomaly] b=82, a=821: Case 3 but has 10 factors!
+
+[Anomaly] b=82, a=907: Case 3 but has 6 factors!
+
+[Anomaly] b=82, a=949: Case 3 but has 4 factors!
+
+[Anomaly] b=82, a=995: Case 3 but has 4 factors!
+
+[Anomaly] b=84, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=84, a=71: Case 3 but has 6 factors!
+
+[Anomaly] b=84, a=115: Case 3 but has 6 factors!
+
+[Anomaly] b=84, a=145: Case 3 but has 6 factors!
+
+[Anomaly] b=84, a=173: Case 3 but has 10 factors!
+
+[Anomaly] b=84, a=187: Case 3 but has 6 factors!
+
+[Anomaly] b=84, a=221: Case 3 but has 6 factors!
+
+[Anomaly] b=84, a=299: Case 3 but has 4 factors!
+
+[Anomaly] b=84, a=307: Case 3 but has 6 factors!
+
+[Anomaly] b=84, a=365: Case 3 but has 6 factors!
+
+[Anomaly] b=84, a=397: Case 3 but has 4 factors!
+
+[Anomaly] b=84, a=409: Case 3 but has 4 factors!
+
+[Anomaly] b=84, a=443: Case 3 but has 4 factors!
+
+[Anomaly] b=84, a=451: Case 3 but has 14 factors!
+
+[Anomaly] b=84, a=475: Case 3 but has 6 factors!
+
+[Anomaly] b=84, a=569: Case 3 but has 6 factors!
+
+[Anomaly] b=84, a=589: Case 3 but has 8 factors!
+
+[Anomaly] b=84, a=625: Case 3 but has 8 factors!
+
+[Anomaly] b=84, a=673: Case 3 but has 12 factors!
+
+[Anomaly] b=84, a=691: Case 3 but has 10 factors!
+
+[Anomaly] b=84, a=731: Case 3 but has 4 factors!
+
+[Anomaly] b=84, a=739: Case 3 but has 10 factors!
+
+[Anomaly] b=84, a=761: Case 3 but has 10 factors!
+
+[Anomaly] b=84, a=809: Case 3 but has 10 factors!
+
+[Anomaly] b=84, a=815: Case 3 but has 4 factors!
+
+[Anomaly] b=84, a=965: Case 3 but has 14 factors!
+
+[Anomaly] b=86, a=1: Case 3 but has 6 factors!
+
+[Anomaly] b=86, a=7: Case 3 but has 4 factors!
+
+[Anomaly] b=86, a=65: Case 3 but has 4 factors!
+
+[Anomaly] b=86, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=86, a=109: Case 3 but has 8 factors!
+
+[Anomaly] b=86, a=125: Case 3 but has 6 factors!
+
+[Anomaly] b=86, a=191: Case 3 but has 10 factors!
+
+[Anomaly] b=86, a=223: Case 3 but has 4 factors!
+
+[Anomaly] b=86, a=295: Case 3 but has 8 factors!
+
+[Anomaly] b=86, a=323: Case 3 but has 4 factors!
+
+[Anomaly] b=86, a=377: Case 3 but has 10 factors!
+
+[Anomaly] b=86, a=421: Case 3 but has 8 factors!
+
+[Anomaly] b=86, a=493: Case 3 but has 8 factors!
+
+[Anomaly] b=86, a=577: Case 3 but has 4 factors!
+
+[Anomaly] b=86, a=601: Case 3 but has 8 factors!
+
+[Anomaly] b=86, a=647: Case 3 but has 12 factors!
+
+[Anomaly] b=86, a=649: Case 3 but has 4 factors!
+
+[Anomaly] b=86, a=673: Case 3 but has 8 factors!
+
+[Anomaly] b=86, a=791: Case 3 but has 8 factors!
+
+[Anomaly] b=86, a=865: Case 3 but has 4 factors!
+
+[Anomaly] b=86, a=899: Case 3 but has 8 factors!
+
+[Anomaly] b=86, a=935: Case 3 but has 12 factors!
+
+[Anomaly] b=88, a=35: Case 3 but has 4 factors!
+
+[Anomaly] b=88, a=139: Case 3 but has 6 factors!
+
+[Anomaly] b=88, a=197: Case 3 but has 6 factors!
+
+[Anomaly] b=88, a=199: Case 3 but has 4 factors!
+
+[Anomaly] b=88, a=271: Case 3 but has 4 factors!
+
+[Anomaly] b=88, a=311: Case 3 but has 10 factors!
+
+[Anomaly] b=88, a=323: Case 3 but has 4 factors!
+
+[Anomaly] b=88, a=343: Case 3 but has 4 factors!
+
+[Anomaly] b=88, a=373: Case 3 but has 8 factors!
+
+[Anomaly] b=88, a=391: Case 3 but has 10 factors!
+
+[Anomaly] b=88, a=397: Case 3 but has 8 factors!
+
+[Anomaly] b=88, a=409: Case 3 but has 4 factors!
+
+[Anomaly] b=88, a=413: Case 3 but has 6 factors!
+
+[Anomaly] b=88, a=467: Case 3 but has 4 factors!
+
+[Anomaly] b=88, a=523: Case 3 but has 6 factors!
+
+[Anomaly] b=88, a=545: Case 3 but has 6 factors!
+
+[Anomaly] b=88, a=617: Case 3 but has 6 factors!
+
+[Anomaly] b=88, a=683: Case 3 but has 8 factors!
+
+[Anomaly] b=88, a=703: Case 3 but has 10 factors!
+
+[Anomaly] b=88, a=719: Case 3 but has 4 factors!
+
+[Anomaly] b=88, a=721: Case 3 but has 8 factors!
+
+[Anomaly] b=88, a=761: Case 3 but has 6 factors!
+
+[Anomaly] b=88, a=877: Case 3 but has 8 factors!
+
+[Anomaly] b=88, a=887: Case 3 but has 8 factors!
+
+[Anomaly] b=88, a=895: Case 3 but has 6 factors!
+
+[Anomaly] b=88, a=917: Case 3 but has 6 factors!
+
+[Anomaly] b=88, a=959: Case 3 but has 8 factors!
+
+[Anomaly] b=88, a=995: Case 3 but has 4 factors!
+
+[Anomaly] b=90, a=17: Case 3 but has 8 factors!
+
+[Anomaly] b=90, a=29: Case 3 but has 10 factors!
+
+[Anomaly] b=90, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=90, a=67: Case 3 but has 6 factors!
+
+[Anomaly] b=90, a=83: Case 3 but has 8 factors!
+
+[Anomaly] b=90, a=91: Case 3 but has 10 factors!
+
+[Anomaly] b=90, a=113: Case 3 but has 12 factors!
+
+[Anomaly] b=90, a=181: Case 3 but has 8 factors!
+
+[Anomaly] b=90, a=197: Case 3 but has 10 factors!
+
+[Anomaly] b=90, a=209: Case 3 but has 4 factors!
+
+[Anomaly] b=90, a=217: Case 3 but has 6 factors!
+
+[Anomaly] b=90, a=223: Case 3 but has 4 factors!
+
+[Anomaly] b=90, a=347: Case 3 but has 4 factors!
+
+[Anomaly] b=90, a=353: Case 3 but has 8 factors!
+
+[Anomaly] b=90, a=373: Case 3 but has 4 factors!
+
+[Anomaly] b=90, a=491: Case 3 but has 8 factors!
+
+[Anomaly] b=90, a=503: Case 3 but has 4 factors!
+
+[Anomaly] b=90, a=583: Case 3 but has 6 factors!
+
+[Anomaly] b=90, a=697: Case 3 but has 12 factors!
+
+[Anomaly] b=90, a=701: Case 3 but has 6 factors!
+
+[Anomaly] b=90, a=707: Case 3 but has 4 factors!
+
+[Anomaly] b=90, a=731: Case 3 but has 8 factors!
+
+[Anomaly] b=90, a=751: Case 3 but has 6 factors!
+
+[Anomaly] b=90, a=763: Case 3 but has 10 factors!
+
+[Anomaly] b=90, a=817: Case 3 but has 8 factors!
+
+[Anomaly] b=90, a=833: Case 3 but has 14 factors!
+
+[Anomaly] b=90, a=847: Case 3 but has 6 factors!
+
+[Anomaly] b=90, a=899: Case 3 but has 8 factors!
+
+[Anomaly] b=90, a=919: Case 3 but has 6 factors!
+
+[Anomaly] b=90, a=941: Case 3 but has 10 factors!
+
+[Anomaly] b=90, a=979: Case 3 but has 6 factors!
+
+[Anomaly] b=90, a=983: Case 3 but has 12 factors!
+
+[Anomaly] b=92, a=85: Case 3 but has 4 factors!
+
+[Anomaly] b=92, a=95: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=125: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=157: Case 3 but has 4 factors!
+
+[Anomaly] b=92, a=193: Case 3 but has 10 factors!
+
+[Anomaly] b=92, a=197: Case 3 but has 10 factors!
+
+[Anomaly] b=92, a=221: Case 3 but has 6 factors!Processing b=93...Processing b=94...Processing b=95...Processing b=96...Processing b=97...Processing b=98...Processing b=99...Processing b=100...Processing b=101...Processing b=102...
+
+[Anomaly] b=92, a=235: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=257: Case 3 but has 8 factors!
+
+[Anomaly] b=92, a=287: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=355: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=379: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=383: Case 3 but has 8 factors!
+
+[Anomaly] b=92, a=415: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=419: Case 3 but has 4 factors!
+
+[Anomaly] b=92, a=467: Case 3 but has 4 factors!
+
+[Anomaly] b=92, a=593: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=649: Case 3 but has 8 factors!
+
+[Anomaly] b=92, a=665: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=671: Case 3 but has 4 factors!
+
+[Anomaly] b=92, a=707: Case 3 but has 4 factors!
+
+[Anomaly] b=92, a=725: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=733: Case 3 but has 4 factors!
+
+[Anomaly] b=92, a=737: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=757: Case 3 but has 8 factors!
+
+[Anomaly] b=92, a=833: Case 3 but has 6 factors!
+
+[Anomaly] b=92, a=841: Case 3 but has 8 factors!
+
+[Anomaly] b=92, a=923: Case 3 but has 8 factors!
+
+[Anomaly] b=92, a=959: Case 3 but has 8 factors!
+
+[Anomaly] b=94, a=19: Case 3 but has 10 factors!
+
+[Anomaly] b=94, a=25: Case 3 but has 6 factors!
+
+[Anomaly] b=94, a=35: Case 3 but has 4 factors!
+
+[Anomaly] b=94, a=65: Case 3 but has 4 factors!
+
+[Anomaly] b=94, a=179: Case 3 but has 4 factors!
+
+[Anomaly] b=94, a=209: Case 3 but has 8 factors!
+
+[Anomaly] b=94, a=281: Case 3 but has 4 factors!
+
+[Anomaly] b=94, a=289: Case 3 but has 6 factors!
+
+[Anomaly] b=94, a=353: Case 3 but has 4 factors!
+
+[Anomaly] b=94, a=359: Case 3 but has 10 factors!
+
+[Anomaly] b=94, a=461: Case 3 but has 6 factors!
+
+[Anomaly] b=94, a=493: Case 3 but has 4 factors!
+
+[Anomaly] b=94, a=559: Case 3 but has 14 factors!
+
+[Anomaly] b=94, a=613: Case 3 but has 4 factors!
+
+[Anomaly] b=94, a=631: Case 3 but has 6 factors!
+
+[Anomaly] b=94, a=731: Case 3 but has 4 factors!
+
+[Anomaly] b=94, a=745: Case 3 but has 4 factors!
+
+[Anomaly] b=94, a=871: Case 3 but has 6 factors!
+
+[Anomaly] b=94, a=889: Case 3 but has 8 factors!
+
+[Anomaly] b=94, a=901: Case 3 but has 4 factors!
+
+[Anomaly] b=94, a=911: Case 3 but has 8 factors!
+
+[Anomaly] b=94, a=937: Case 3 but has 4 factors!
+
+[Anomaly] b=96, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=65: Case 3 but has 8 factors!
+
+[Anomaly] b=96, a=73: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=121: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=127: Case 3 but has 8 factors!
+
+[Anomaly] b=96, a=143: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=155: Case 3 but has 4 factors!
+
+[Anomaly] b=96, a=229: Case 3 but has 8 factors!
+
+[Anomaly] b=96, a=253: Case 3 but has 4 factors!
+
+[Anomaly] b=96, a=263: Case 3 but has 10 factors!
+
+[Anomaly] b=96, a=269: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=271: Case 3 but has 4 factors!
+
+[Anomaly] b=96, a=295: Case 3 but has 12 factors!
+
+[Anomaly] b=96, a=301: Case 3 but has 8 factors!
+
+[Anomaly] b=96, a=325: Case 3 but has 4 factors!
+
+[Anomaly] b=96, a=329: Case 3 but has 4 factors!
+
+[Anomaly] b=96, a=367: Case 3 but has 4 factors!
+
+[Anomaly] b=96, a=373: Case 3 but has 8 factors!
+
+[Anomaly] b=96, a=397: Case 3 but has 4 factors!
+
+[Anomaly] b=96, a=413: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=505: Case 3 but has 8 factors!
+
+[Anomaly] b=96, a=511: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=515: Case 3 but has 8 factors!
+
+[Anomaly] b=96, a=521: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=559: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=631: Case 3 but has 14 factors!
+
+[Anomaly] b=96, a=683: Case 3 but has 12 factors!
+
+[Anomaly] b=96, a=713: Case 3 but has 10 factors!
+
+[Anomaly] b=96, a=721: Case 3 but has 8 factors!
+
+[Anomaly] b=96, a=725: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=755: Case 3 but has 12 factors!
+
+[Anomaly] b=96, a=775: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=815: Case 3 but has 8 factors!
+
+[Anomaly] b=96, a=857: Case 3 but has 10 factors!
+
+[Anomaly] b=96, a=893: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=901: Case 3 but has 4 factors!
+
+[Anomaly] b=96, a=941: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=979: Case 3 but has 6 factors!
+
+[Anomaly] b=96, a=983: Case 3 but has 4 factors!
+
+[Anomaly] b=98, a=67: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=98, a=95: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=131: Case 3 but has 8 factors!
+
+[Anomaly] b=98, a=137: Case 3 but has 4 factors!
+
+[Anomaly] b=98, a=205: Case 3 but has 12 factors!
+
+[Anomaly] b=98, a=209: Case 3 but has 8 factors!
+
+[Anomaly] b=98, a=263: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=283: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=295: Case 3 but has 4 factors!
+
+[Anomaly] b=98, a=299: Case 3 but has 4 factors!
+
+[Anomaly] b=98, a=317: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=347: Case 3 but has 8 factors!
+
+[Anomaly] b=98, a=421: Case 3 but has 8 factors!
+
+[Anomaly] b=98, a=457: Case 3 but has 4 factors!
+
+[Anomaly] b=98, a=461: Case 3 but has 10 factors!
+
+[Anomaly] b=98, a=475: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=481: Case 3 but has 8 factors!
+
+[Anomaly] b=98, a=509: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=535: Case 3 but has 14 factors!
+
+[Anomaly] b=98, a=563: Case 3 but has 8 factors!
+
+[Anomaly] b=98, a=565: Case 3 but has 4 factors!
+
+[Anomaly] b=98, a=571: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=583: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=671: Case 3 but has 12 factors!
+
+[Anomaly] b=98, a=695: Case 3 but has 4 factors!
+
+[Anomaly] b=98, a=727: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=799: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=823: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=893: Case 3 but has 6 factors!
+
+[Anomaly] b=98, a=925: Case 3 but has 8 factors!
+
+[Anomaly] b=98, a=967: Case 3 but has 10 factors!
+
+[Anomaly] b=100, a=23: Case 3 but has 10 factors!
+
+[Anomaly] b=100, a=97: Case 3 but has 6 factors!
+
+[Anomaly] b=100, a=151: Case 3 but has 8 factors!
+
+[Anomaly] b=100, a=157: Case 3 but has 8 factors!
+
+[Anomaly] b=100, a=169: Case 3 but has 6 factors!
+
+[Anomaly] b=100, a=203: Case 3 but has 8 factors!
+
+[Anomaly] b=100, a=221: Case 3 but has 10 factors!
+
+[Anomaly] b=100, a=227: Case 3 but has 8 factors!
+
+[Anomaly] b=100, a=229: Case 3 but has 4 factors!
+
+[Anomaly] b=100, a=259: Case 3 but has 10 factors!
+
+[Anomaly] b=100, a=337: Case 3 but has 6 factors!
+
+[Anomaly] b=100, a=407: Case 3 but has 4 factors!
+
+[Anomaly] b=100, a=493: Case 3 but has 8 factors!
+
+[Anomaly] b=100, a=527: Case 3 but has 8 factors!
+
+[Anomaly] b=100, a=553: Case 3 but has 4 factors!
+
+[Anomaly] b=100, a=623: Case 3 but has 4 factors!
+
+[Anomaly] b=100, a=671: Case 3 but has 4 factors!
+
+[Anomaly] b=100, a=749: Case 3 but has 10 factors!
+
+[Anomaly] b=100, a=763: Case 3 but has 6 factors!
+
+[Anomaly] b=100, a=779: Case 3 but has 4 factors!
+
+[Anomaly] b=100, a=797: Case 3 but has 10 factors!
+
+[Anomaly] b=100, a=887: Case 3 but has 4 factors!
+
+[Anomaly] b=100, a=931: Case 3 but has 6 factors!
+
+[Anomaly] b=100, a=949: Case 3 but has 8 factors!
+
+[Anomaly] b=102, a=37: Case 3 but has 4 factors!
+
+[Anomaly] b=102, a=109: Case 3 but has 4 factors!
+
+[Anomaly] b=102, a=125: Case 3 but has 10 factors!
+
+[Anomaly] b=102, a=199: Case 3 but has 4 factors!
+
+[Anomaly] b=102, a=257: Case 3 but has 8 factors!
+
+[Anomaly] b=102, a=275: Case 3 but has 4 factors!
+
+[Anomaly] b=102, a=407: Case 3 but has 6 factors!
+
+[Anomaly] b=102, a=419: Case 3 but has 8 factors!
+
+[Anomaly] b=102, a=451: Case 3 but has 6 factors!
+
+[Anomaly] b=102, a=457: Case 3 but has 8 factors!
+
+[Anomaly] b=102, a=505: Case 3 but has 12 factors!
+
+[Anomaly] b=102, a=515: Case 3 but has 12 factors!
+
+[Anomaly] b=102, a=517: Case 3 but has 8 factors!
+
+[Anomaly] b=102, a=529: Case 3 but has 4 factors!
+
+[Anomaly] b=102, a=533: Case 3 but has 6 factors!
+
+[Anomaly] b=102, a=535: Case 3 but has 6 factors!
+
+[Anomaly] b=102, a=541: Case 3 but has 4 factors!
+
+[Anomaly] b=102, a=623: Case 3 but has 8 factors!
+
+[Anomaly] b=102, a=667: Case 3 but has 6 factors!
+
+[Anomaly] b=102, a=761: Case 3 but has 10 factors!
+
+[Anomaly] b=102, a=775: Case 3 but has 6 factors!
+
+[Anomaly] b=102, a=787: Case 3 but has 10 factors!
+
+[Anomaly] b=102, a=803: Case 3 but has 4 factors!
+
+[Anomaly] b=102, a=895: Case 3 but has 6 factors!Processing b=103...Processing b=104...Processing b=105...Processing b=106...Processing b=107...Processing b=108...Processing b=109...Processing b=110...Processing b=111...Processing b=112...Processing b=113...Processing b=114...Processing b=115...Processing b=116...
+
+[Anomaly] b=102, a=925: Case 3 but has 8 factors!
+
+[Anomaly] b=102, a=979: Case 3 but has 14 factors!
+
+[Anomaly] b=104, a=11: Case 3 but has 8 factors!
+
+[Anomaly] b=104, a=29: Case 3 but has 10 factors!
+
+[Anomaly] b=104, a=37: Case 3 but has 8 factors!
+
+[Anomaly] b=104, a=115: Case 3 but has 6 factors!
+
+[Anomaly] b=104, a=125: Case 3 but has 10 factors!
+
+[Anomaly] b=104, a=151: Case 3 but has 4 factors!
+
+[Anomaly] b=104, a=161: Case 3 but has 8 factors!
+
+[Anomaly] b=104, a=173: Case 3 but has 6 factors!
+
+[Anomaly] b=104, a=223: Case 3 but has 8 factors!
+
+[Anomaly] b=104, a=263: Case 3 but has 6 factors!
+
+[Anomaly] b=104, a=323: Case 3 but has 4 factors!
+
+[Anomaly] b=104, a=343: Case 3 but has 4 factors!
+
+[Anomaly] b=104, a=389: Case 3 but has 6 factors!
+
+[Anomaly] b=104, a=395: Case 3 but has 4 factors!
+
+[Anomaly] b=104, a=629: Case 3 but has 6 factors!
+
+[Anomaly] b=104, a=703: Case 3 but has 10 factors!
+
+[Anomaly] b=104, a=785: Case 3 but has 6 factors!
+
+[Anomaly] b=104, a=829: Case 3 but has 4 factors!
+
+[Anomaly] b=104, a=835: Case 3 but has 6 factors!
+
+[Anomaly] b=104, a=883: Case 3 but has 6 factors!
+
+[Anomaly] b=104, a=955: Case 3 but has 6 factors!
+
+[Anomaly] b=104, a=971: Case 3 but has 8 factors!
+
+[Anomaly] b=106, a=35: Case 3 but has 8 factors!
+
+[Anomaly] b=106, a=59: Case 3 but has 4 factors!
+
+[Anomaly] b=106, a=161: Case 3 but has 4 factors!
+
+[Anomaly] b=106, a=163: Case 3 but has 6 factors!
+
+[Anomaly] b=106, a=185: Case 3 but has 4 factors!
+
+[Anomaly] b=106, a=221: Case 3 but has 6 factors!
+
+[Anomaly] b=106, a=247: Case 3 but has 8 factors!
+
+[Anomaly] b=106, a=253: Case 3 but has 8 factors!
+
+[Anomaly] b=106, a=355: Case 3 but has 6 factors!
+
+[Anomaly] b=106, a=401: Case 3 but has 4 factors!
+
+[Anomaly] b=106, a=419: Case 3 but has 8 factors!
+
+[Anomaly] b=106, a=431: Case 3 but has 4 factors!
+
+[Anomaly] b=106, a=463: Case 3 but has 6 factors!
+
+[Anomaly] b=106, a=509: Case 3 but has 6 factors!
+
+[Anomaly] b=106, a=521: Case 3 but has 6 factors!
+
+[Anomaly] b=106, a=545: Case 3 but has 6 factors!
+
+[Anomaly] b=106, a=593: Case 3 but has 6 factors!
+
+[Anomaly] b=106, a=635: Case 3 but has 4 factors!
+
+[Anomaly] b=106, a=685: Case 3 but has 4 factors!
+
+[Anomaly] b=106, a=697: Case 3 but has 12 factors!
+
+[Anomaly] b=106, a=739: Case 3 but has 6 factors!
+
+[Anomaly] b=106, a=805: Case 3 but has 8 factors!
+
+[Anomaly] b=106, a=811: Case 3 but has 6 factors!
+
+[Anomaly] b=106, a=935: Case 3 but has 8 factors!
+
+[Anomaly] b=106, a=941: Case 3 but has 10 factors!
+
+[Anomaly] b=108, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=91: Case 3 but has 10 factors!
+
+[Anomaly] b=108, a=109: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=125: Case 3 but has 10 factors!
+
+[Anomaly] b=108, a=131: Case 3 but has 8 factors!
+
+[Anomaly] b=108, a=139: Case 3 but has 6 factors!
+
+[Anomaly] b=108, a=161: Case 3 but has 8 factors!
+
+[Anomaly] b=108, a=179: Case 3 but has 8 factors!
+
+[Anomaly] b=108, a=181: Case 3 but has 8 factors!
+
+[Anomaly] b=108, a=203: Case 3 but has 8 factors!
+
+[Anomaly] b=108, a=235: Case 3 but has 6 factors!
+
+[Anomaly] b=108, a=257: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=305: Case 3 but has 8 factors!
+
+[Anomaly] b=108, a=311: Case 3 but has 6 factors!
+
+[Anomaly] b=108, a=347: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=377: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=385: Case 3 but has 14 factors!
+
+[Anomaly] b=108, a=397: Case 3 but has 8 factors!
+
+[Anomaly] b=108, a=407: Case 3 but has 6 factors!
+
+[Anomaly] b=108, a=473: Case 3 but has 6 factors!
+
+[Anomaly] b=108, a=491: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=505: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=511: Case 3 but has 6 factors!
+
+[Anomaly] b=108, a=517: Case 3 but has 8 factors!
+
+[Anomaly] b=108, a=547: Case 3 but has 6 factors!
+
+[Anomaly] b=108, a=589: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=611: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=731: Case 3 but has 8 factors!
+
+[Anomaly] b=108, a=743: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=785: Case 3 but has 6 factors!
+
+[Anomaly] b=108, a=793: Case 3 but has 8 factors!
+
+[Anomaly] b=108, a=833: Case 3 but has 6 factors!
+
+[Anomaly] b=108, a=835: Case 3 but has 10 factors!
+
+[Anomaly] b=108, a=847: Case 3 but has 14 factors!
+
+[Anomaly] b=108, a=853: Case 3 but has 4 factors!
+
+[Anomaly] b=108, a=875: Case 3 but has 12 factors!
+
+[Anomaly] b=110, a=41: Case 3 but has 8 factors!
+
+[Anomaly] b=110, a=67: Case 3 but has 6 factors!
+
+[Anomaly] b=110, a=203: Case 3 but has 4 factors!
+
+[Anomaly] b=110, a=221: Case 3 but has 6 factors!
+
+[Anomaly] b=110, a=251: Case 3 but has 8 factors!
+
+[Anomaly] b=110, a=271: Case 3 but has 8 factors!
+
+[Anomaly] b=110, a=293: Case 3 but has 6 factors!
+
+[Anomaly] b=110, a=409: Case 3 but has 6 factors!
+
+[Anomaly] b=110, a=469: Case 3 but has 8 factors!
+
+[Anomaly] b=110, a=481: Case 3 but has 4 factors!
+
+[Anomaly] b=110, a=509: Case 3 but has 10 factors!
+
+[Anomaly] b=110, a=557: Case 3 but has 6 factors!
+
+[Anomaly] b=110, a=617: Case 3 but has 6 factors!
+
+[Anomaly] b=110, a=683: Case 3 but has 4 factors!
+
+[Anomaly] b=110, a=719: Case 3 but has 12 factors!
+
+[Anomaly] b=110, a=721: Case 3 but has 4 factors!
+
+[Anomaly] b=110, a=833: Case 3 but has 6 factors!
+
+[Anomaly] b=110, a=859: Case 3 but has 6 factors!
+
+[Anomaly] b=110, a=989: Case 3 but has 6 factors!
+
+[Anomaly] b=112, a=43: Case 3 but has 10 factors!
+
+[Anomaly] b=112, a=55: Case 3 but has 8 factors!
+
+[Anomaly] b=112, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=112, a=277: Case 3 but has 4 factors!
+
+[Anomaly] b=112, a=281: Case 3 but has 4 factors!
+
+[Anomaly] b=112, a=313: Case 3 but has 6 factors!
+
+[Anomaly] b=112, a=353: Case 3 but has 4 factors!
+
+[Anomaly] b=112, a=359: Case 3 but has 6 factors!
+
+[Anomaly] b=112, a=379: Case 3 but has 6 factors!
+
+[Anomaly] b=112, a=431: Case 3 but has 6 factors!
+
+[Anomaly] b=112, a=449: Case 3 but has 6 factors!
+
+[Anomaly] b=112, a=485: Case 3 but has 6 factors!
+
+[Anomaly] b=112, a=493: Case 3 but has 4 factors!
+
+[Anomaly] b=112, a=503: Case 3 but has 8 factors!
+
+[Anomaly] b=112, a=547: Case 3 but has 10 factors!
+
+[Anomaly] b=112, a=575: Case 3 but has 8 factors!
+
+[Anomaly] b=112, a=587: Case 3 but has 8 factors!
+
+[Anomaly] b=112, a=593: Case 3 but has 10 factors!
+
+[Anomaly] b=112, a=695: Case 3 but has 8 factors!
+
+[Anomaly] b=112, a=793: Case 3 but has 8 factors!
+
+[Anomaly] b=112, a=835: Case 3 but has 10 factors!
+
+[Anomaly] b=112, a=881: Case 3 but has 10 factors!
+
+[Anomaly] b=112, a=955: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=11: Case 3 but has 4 factors!
+
+[Anomaly] b=114, a=71: Case 3 but has 10 factors!
+
+[Anomaly] b=114, a=85: Case 3 but has 8 factors!
+
+[Anomaly] b=114, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=109: Case 3 but has 8 factors!
+
+[Anomaly] b=114, a=113: Case 3 but has 8 factors!
+
+[Anomaly] b=114, a=131: Case 3 but has 4 factors!
+
+[Anomaly] b=114, a=151: Case 3 but has 8 factors!
+
+[Anomaly] b=114, a=203: Case 3 but has 8 factors!
+
+[Anomaly] b=114, a=217: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=241: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=275: Case 3 but has 8 factors!
+
+[Anomaly] b=114, a=277: Case 3 but has 4 factors!
+
+[Anomaly] b=114, a=287: Case 3 but has 14 factors!
+
+[Anomaly] b=114, a=355: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=391: Case 3 but has 8 factors!
+
+[Anomaly] b=114, a=401: Case 3 but has 4 factors!
+
+[Anomaly] b=114, a=407: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=413: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=415: Case 3 but has 8 factors!
+
+[Anomaly] b=114, a=431: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=449: Case 3 but has 4 factors!
+
+[Anomaly] b=114, a=463: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=481: Case 3 but has 8 factors!
+
+[Anomaly] b=114, a=517: Case 3 but has 4 factors!
+
+[Anomaly] b=114, a=559: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=583: Case 3 but has 10 factors!
+
+[Anomaly] b=114, a=605: Case 3 but has 10 factors!
+
+[Anomaly] b=114, a=625: Case 3 but has 8 factors!
+
+[Anomaly] b=114, a=647: Case 3 but has 12 factors!
+
+[Anomaly] b=114, a=905: Case 3 but has 6 factors!
+
+[Anomaly] b=114, a=913: Case 3 but has 4 factors!
+
+[Anomaly] b=114, a=941: Case 3 but has 10 factors!
+
+[Anomaly] b=116, a=31: Case 3 but has 8 factors!Processing b=117...Processing b=118...Processing b=119...Processing b=120...Processing b=121...Processing b=122...Processing b=123...Processing b=124...Processing b=125...Processing b=126...Processing b=127...Processing b=128...
+
+[Anomaly] b=116, a=65: Case 3 but has 4 factors!
+
+[Anomaly] b=116, a=137: Case 3 but has 8 factors!
+
+[Anomaly] b=116, a=149: Case 3 but has 6 factors!
+
+[Anomaly] b=116, a=209: Case 3 but has 4 factors!
+
+[Anomaly] b=116, a=275: Case 3 but has 4 factors!
+
+[Anomaly] b=116, a=277: Case 3 but has 4 factors!
+
+[Anomaly] b=116, a=281: Case 3 but has 4 factors!
+
+[Anomaly] b=116, a=283: Case 3 but has 6 factors!
+
+[Anomaly] b=116, a=301: Case 3 but has 8 factors!
+
+[Anomaly] b=116, a=335: Case 3 but has 6 factors!
+
+[Anomaly] b=116, a=409: Case 3 but has 6 factors!
+
+[Anomaly] b=116, a=445: Case 3 but has 4 factors!
+
+[Anomaly] b=116, a=455: Case 3 but has 6 factors!
+
+[Anomaly] b=116, a=515: Case 3 but has 4 factors!
+
+[Anomaly] b=116, a=587: Case 3 but has 4 factors!
+
+[Anomaly] b=116, a=605: Case 3 but has 10 factors!
+
+[Anomaly] b=116, a=731: Case 3 but has 8 factors!
+
+[Anomaly] b=116, a=787: Case 3 but has 10 factors!
+
+[Anomaly] b=116, a=941: Case 3 but has 6 factors!
+
+[Anomaly] b=116, a=979: Case 3 but has 6 factors!
+
+[Anomaly] b=116, a=997: Case 3 but has 8 factors!
+
+[Anomaly] b=118, a=7: Case 3 but has 8 factors!
+
+[Anomaly] b=118, a=11: Case 3 but has 4 factors!
+
+[Anomaly] b=118, a=31: Case 3 but has 8 factors!
+
+[Anomaly] b=118, a=77: Case 3 but has 6 factors!
+
+[Anomaly] b=118, a=113: Case 3 but has 4 factors!
+
+[Anomaly] b=118, a=121: Case 3 but has 6 factors!
+
+[Anomaly] b=118, a=169: Case 3 but has 6 factors!
+
+[Anomaly] b=118, a=193: Case 3 but has 6 factors!
+
+[Anomaly] b=118, a=227: Case 3 but has 4 factors!
+
+[Anomaly] b=118, a=331: Case 3 but has 6 factors!
+
+[Anomaly] b=118, a=401: Case 3 but has 4 factors!
+
+[Anomaly] b=118, a=455: Case 3 but has 10 factors!
+
+[Anomaly] b=118, a=479: Case 3 but has 4 factors!
+
+[Anomaly] b=118, a=529: Case 3 but has 4 factors!
+
+[Anomaly] b=118, a=589: Case 3 but has 8 factors!
+
+[Anomaly] b=118, a=635: Case 3 but has 12 factors!
+
+[Anomaly] b=118, a=637: Case 3 but has 8 factors!
+
+[Anomaly] b=118, a=659: Case 3 but has 8 factors!
+
+[Anomaly] b=118, a=763: Case 3 but has 6 factors!
+
+[Anomaly] b=118, a=797: Case 3 but has 6 factors!
+
+[Anomaly] b=118, a=851: Case 3 but has 4 factors!
+
+[Anomaly] b=118, a=943: Case 3 but has 14 factors!
+
+[Anomaly] b=120, a=127: Case 3 but has 4 factors!
+
+[Anomaly] b=120, a=139: Case 3 but has 6 factors!
+
+[Anomaly] b=120, a=179: Case 3 but has 4 factors!
+
+[Anomaly] b=120, a=259: Case 3 but has 6 factors!
+
+[Anomaly] b=120, a=383: Case 3 but has 6 factors!
+
+[Anomaly] b=120, a=443: Case 3 but has 4 factors!
+
+[Anomaly] b=120, a=451: Case 3 but has 6 factors!
+
+[Anomaly] b=120, a=467: Case 3 but has 4 factors!
+
+[Anomaly] b=120, a=533: Case 3 but has 10 factors!
+
+[Anomaly] b=120, a=563: Case 3 but has 12 factors!
+
+[Anomaly] b=120, a=581: Case 3 but has 6 factors!
+
+[Anomaly] b=120, a=611: Case 3 but has 4 factors!
+
+[Anomaly] b=120, a=613: Case 3 but has 4 factors!
+
+[Anomaly] b=120, a=731: Case 3 but has 4 factors!
+
+[Anomaly] b=120, a=767: Case 3 but has 8 factors!
+
+[Anomaly] b=120, a=809: Case 3 but has 6 factors!
+
+[Anomaly] b=120, a=869: Case 3 but has 6 factors!
+
+[Anomaly] b=120, a=979: Case 3 but has 6 factors!
+
+[Anomaly] b=122, a=91: Case 3 but has 6 factors!
+
+[Anomaly] b=122, a=97: Case 3 but has 6 factors!
+
+[Anomaly] b=122, a=127: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=143: Case 3 but has 10 factors!
+
+[Anomaly] b=122, a=145: Case 3 but has 6 factors!
+
+[Anomaly] b=122, a=281: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=323: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=335: Case 3 but has 6 factors!
+
+[Anomaly] b=122, a=349: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=371: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=395: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=407: Case 3 but has 6 factors!
+
+[Anomaly] b=122, a=421: Case 3 but has 8 factors!
+
+[Anomaly] b=122, a=443: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=449: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=503: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=523: Case 3 but has 10 factors!
+
+[Anomaly] b=122, a=541: Case 3 but has 8 factors!
+
+[Anomaly] b=122, a=575: Case 3 but has 8 factors!
+
+[Anomaly] b=122, a=577: Case 3 but has 8 factors!
+
+[Anomaly] b=122, a=673: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=709: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=713: Case 3 but has 6 factors!
+
+[Anomaly] b=122, a=829: Case 3 but has 4 factors!
+
+[Anomaly] b=122, a=845: Case 3 but has 6 factors!
+
+[Anomaly] b=122, a=871: Case 3 but has 14 factors!
+
+[Anomaly] b=122, a=875: Case 3 but has 8 factors!
+
+[Anomaly] b=122, a=925: Case 3 but has 8 factors!
+
+[Anomaly] b=122, a=965: Case 3 but has 6 factors!
+
+[Anomaly] b=122, a=979: Case 3 but has 6 factors!
+
+[Anomaly] b=124, a=35: Case 3 but has 8 factors!
+
+[Anomaly] b=124, a=91: Case 3 but has 10 factors!
+
+[Anomaly] b=124, a=125: Case 3 but has 6 factors!
+
+[Anomaly] b=124, a=211: Case 3 but has 10 factors!
+
+[Anomaly] b=124, a=287: Case 3 but has 10 factors!
+
+[Anomaly] b=124, a=319: Case 3 but has 8 factors!
+
+[Anomaly] b=124, a=325: Case 3 but has 8 factors!
+
+[Anomaly] b=124, a=329: Case 3 but has 4 factors!
+
+[Anomaly] b=124, a=419: Case 3 but has 8 factors!
+
+[Anomaly] b=124, a=437: Case 3 but has 6 factors!
+
+[Anomaly] b=124, a=469: Case 3 but has 4 factors!
+
+[Anomaly] b=124, a=473: Case 3 but has 4 factors!
+
+[Anomaly] b=124, a=487: Case 3 but has 4 factors!
+
+[Anomaly] b=124, a=509: Case 3 but has 6 factors!
+
+[Anomaly] b=124, a=521: Case 3 but has 6 factors!
+
+[Anomaly] b=124, a=541: Case 3 but has 4 factors!
+
+[Anomaly] b=124, a=577: Case 3 but has 4 factors!
+
+[Anomaly] b=124, a=595: Case 3 but has 14 factors!
+
+[Anomaly] b=124, a=779: Case 3 but has 4 factors!
+
+[Anomaly] b=124, a=805: Case 3 but has 12 factors!
+
+[Anomaly] b=124, a=847: Case 3 but has 6 factors!
+
+[Anomaly] b=124, a=851: Case 3 but has 12 factors!
+
+[Anomaly] b=124, a=973: Case 3 but has 8 factors!
+
+[Anomaly] b=126, a=25: Case 3 but has 10 factors!
+
+[Anomaly] b=126, a=41: Case 3 but has 4 factors!
+
+[Anomaly] b=126, a=47: Case 3 but has 6 factors!
+
+[Anomaly] b=126, a=65: Case 3 but has 12 factors!
+
+[Anomaly] b=126, a=73: Case 3 but has 6 factors!
+
+[Anomaly] b=126, a=97: Case 3 but has 6 factors!
+
+[Anomaly] b=126, a=107: Case 3 but has 8 factors!
+
+[Anomaly] b=126, a=131: Case 3 but has 8 factors!
+
+[Anomaly] b=126, a=155: Case 3 but has 8 factors!
+
+[Anomaly] b=126, a=163: Case 3 but has 6 factors!
+
+[Anomaly] b=126, a=227: Case 3 but has 4 factors!
+
+[Anomaly] b=126, a=235: Case 3 but has 10 factors!
+
+[Anomaly] b=126, a=323: Case 3 but has 8 factors!
+
+[Anomaly] b=126, a=419: Case 3 but has 4 factors!
+
+[Anomaly] b=126, a=421: Case 3 but has 4 factors!
+
+[Anomaly] b=126, a=493: Case 3 but has 8 factors!
+
+[Anomaly] b=126, a=535: Case 3 but has 6 factors!
+
+[Anomaly] b=126, a=547: Case 3 but has 6 factors!
+
+[Anomaly] b=126, a=667: Case 3 but has 6 factors!
+
+[Anomaly] b=126, a=701: Case 3 but has 10 factors!
+
+[Anomaly] b=126, a=719: Case 3 but has 8 factors!
+
+[Anomaly] b=126, a=733: Case 3 but has 12 factors!
+
+[Anomaly] b=126, a=751: Case 3 but has 10 factors!
+
+[Anomaly] b=126, a=827: Case 3 but has 8 factors!
+
+[Anomaly] b=126, a=829: Case 3 but has 4 factors!
+
+[Anomaly] b=126, a=869: Case 3 but has 6 factors!
+
+[Anomaly] b=126, a=871: Case 3 but has 10 factors!
+
+[Anomaly] b=126, a=895: Case 3 but has 6 factors!
+
+[Anomaly] b=126, a=935: Case 3 but has 8 factors!
+
+[Anomaly] b=126, a=991: Case 3 but has 6 factors!
+
+[Anomaly] b=128, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=128, a=67: Case 3 but has 6 factors!
+
+[Anomaly] b=128, a=85: Case 3 but has 4 factors!
+
+[Anomaly] b=128, a=131: Case 3 but has 4 factors!
+
+[Anomaly] b=128, a=251: Case 3 but has 8 factors!
+
+[Anomaly] b=128, a=253: Case 3 but has 8 factors!
+
+[Anomaly] b=128, a=265: Case 3 but has 6 factors!
+
+[Anomaly] b=128, a=305: Case 3 but has 8 factors!
+
+[Anomaly] b=128, a=323: Case 3 but has 8 factors!
+
+[Anomaly] b=128, a=325: Case 3 but has 8 factors!
+
+[Anomaly] b=128, a=337: Case 3 but has 6 factors!
+
+[Anomaly] b=128, a=379: Case 3 but has 6 factors!
+
+[Anomaly] b=128, a=409: Case 3 but has 10 factors!
+
+[Anomaly] b=128, a=437: Case 3 but has 6 factors!
+
+[Anomaly] b=128, a=449: Case 3 but has 4 factors!
+
+[Anomaly] b=128, a=463: Case 3 but has 4 factors!
+
+[Anomaly] b=128, a=467: Case 3 but has 8 factors!Processing b=129...Processing b=130...Processing b=131...Processing b=132...Processing b=133...Processing b=134...Processing b=135...Processing b=136...Processing b=137...Processing b=138...Processing b=139...Processing b=140...
+
+[Anomaly] b=128, a=577: Case 3 but has 4 factors!
+
+[Anomaly] b=128, a=581: Case 3 but has 6 factors!
+
+[Anomaly] b=128, a=611: Case 3 but has 8 factors!
+
+[Anomaly] b=128, a=649: Case 3 but has 4 factors!
+
+[Anomaly] b=128, a=683: Case 3 but has 8 factors!
+
+[Anomaly] b=128, a=779: Case 3 but has 8 factors!
+
+[Anomaly] b=128, a=791: Case 3 but has 8 factors!
+
+[Anomaly] b=128, a=865: Case 3 but has 4 factors!
+
+[Anomaly] b=128, a=899: Case 3 but has 8 factors!
+
+[Anomaly] b=128, a=905: Case 3 but has 10 factors!
+
+[Anomaly] b=128, a=953: Case 3 but has 10 factors!
+
+[Anomaly] b=130, a=7: Case 3 but has 8 factors!
+
+[Anomaly] b=130, a=11: Case 3 but has 4 factors!
+
+[Anomaly] b=130, a=133: Case 3 but has 8 factors!
+
+[Anomaly] b=130, a=137: Case 3 but has 4 factors!
+
+[Anomaly] b=130, a=161: Case 3 but has 4 factors!
+
+[Anomaly] b=130, a=379: Case 3 but has 6 factors!
+
+[Anomaly] b=130, a=451: Case 3 but has 6 factors!
+
+[Anomaly] b=130, a=467: Case 3 but has 8 factors!
+
+[Anomaly] b=130, a=469: Case 3 but has 4 factors!
+
+[Anomaly] b=130, a=511: Case 3 but has 4 factors!
+
+[Anomaly] b=130, a=521: Case 3 but has 6 factors!
+
+[Anomaly] b=130, a=529: Case 3 but has 4 factors!
+
+[Anomaly] b=130, a=551: Case 3 but has 4 factors!
+
+[Anomaly] b=130, a=619: Case 3 but has 6 factors!
+
+[Anomaly] b=130, a=623: Case 3 but has 4 factors!
+
+[Anomaly] b=130, a=673: Case 3 but has 16 factors!
+
+[Anomaly] b=130, a=683: Case 3 but has 4 factors!
+
+[Anomaly] b=130, a=703: Case 3 but has 6 factors!
+
+[Anomaly] b=130, a=709: Case 3 but has 12 factors!
+
+[Anomaly] b=130, a=737: Case 3 but has 6 factors!
+
+[Anomaly] b=130, a=757: Case 3 but has 4 factors!
+
+[Anomaly] b=130, a=763: Case 3 but has 10 factors!
+
+[Anomaly] b=130, a=781: Case 3 but has 8 factors!
+
+[Anomaly] b=130, a=821: Case 3 but has 10 factors!
+
+[Anomaly] b=130, a=953: Case 3 but has 10 factors!
+
+[Anomaly] b=132, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=132, a=103: Case 3 but has 8 factors!
+
+[Anomaly] b=132, a=107: Case 3 but has 4 factors!
+
+[Anomaly] b=132, a=239: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=245: Case 3 but has 14 factors!
+
+[Anomaly] b=132, a=287: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=325: Case 3 but has 12 factors!
+
+[Anomaly] b=132, a=329: Case 3 but has 12 factors!
+
+[Anomaly] b=132, a=365: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=391: Case 3 but has 8 factors!
+
+[Anomaly] b=132, a=397: Case 3 but has 4 factors!
+
+[Anomaly] b=132, a=413: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=431: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=443: Case 3 but has 4 factors!
+
+[Anomaly] b=132, a=497: Case 3 but has 8 factors!
+
+[Anomaly] b=132, a=499: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=529: Case 3 but has 8 factors!
+
+[Anomaly] b=132, a=545: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=563: Case 3 but has 8 factors!
+
+[Anomaly] b=132, a=587: Case 3 but has 12 factors!
+
+[Anomaly] b=132, a=653: Case 3 but has 10 factors!
+
+[Anomaly] b=132, a=685: Case 3 but has 8 factors!
+
+[Anomaly] b=132, a=743: Case 3 but has 4 factors!
+
+[Anomaly] b=132, a=763: Case 3 but has 10 factors!
+
+[Anomaly] b=132, a=773: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=863: Case 3 but has 8 factors!
+
+[Anomaly] b=132, a=877: Case 3 but has 8 factors!
+
+[Anomaly] b=132, a=905: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=929: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=931: Case 3 but has 10 factors!
+
+[Anomaly] b=132, a=937: Case 3 but has 12 factors!
+
+[Anomaly] b=132, a=953: Case 3 but has 6 factors!
+
+[Anomaly] b=132, a=977: Case 3 but has 6 factors!
+
+[Anomaly] b=134, a=157: Case 3 but has 12 factors!
+
+[Anomaly] b=134, a=169: Case 3 but has 10 factors!
+
+[Anomaly] b=134, a=227: Case 3 but has 8 factors!
+
+[Anomaly] b=134, a=229: Case 3 but has 4 factors!
+
+[Anomaly] b=134, a=283: Case 3 but has 6 factors!
+
+[Anomaly] b=134, a=293: Case 3 but has 6 factors!
+
+[Anomaly] b=134, a=329: Case 3 but has 4 factors!
+
+[Anomaly] b=134, a=349: Case 3 but has 4 factors!
+
+[Anomaly] b=134, a=389: Case 3 but has 6 factors!
+
+[Anomaly] b=134, a=473: Case 3 but has 8 factors!
+
+[Anomaly] b=134, a=481: Case 3 but has 6 factors!
+
+[Anomaly] b=134, a=493: Case 3 but has 8 factors!
+
+[Anomaly] b=134, a=547: Case 3 but has 10 factors!
+
+[Anomaly] b=134, a=563: Case 3 but has 4 factors!
+
+[Anomaly] b=134, a=587: Case 3 but has 8 factors!
+
+[Anomaly] b=134, a=589: Case 3 but has 4 factors!
+
+[Anomaly] b=134, a=607: Case 3 but has 6 factors!
+
+[Anomaly] b=134, a=623: Case 3 but has 4 factors!
+
+[Anomaly] b=134, a=697: Case 3 but has 4 factors!
+
+[Anomaly] b=134, a=781: Case 3 but has 8 factors!
+
+[Anomaly] b=134, a=835: Case 3 but has 10 factors!
+
+[Anomaly] b=134, a=943: Case 3 but has 6 factors!
+
+[Anomaly] b=134, a=949: Case 3 but has 12 factors!
+
+[Anomaly] b=134, a=961: Case 3 but has 8 factors!
+
+[Anomaly] b=136, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=136, a=83: Case 3 but has 8 factors!
+
+[Anomaly] b=136, a=115: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=121: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=139: Case 3 but has 10 factors!
+
+[Anomaly] b=136, a=209: Case 3 but has 4 factors!
+
+[Anomaly] b=136, a=265: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=295: Case 3 but has 8 factors!
+
+[Anomaly] b=136, a=311: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=335: Case 3 but has 14 factors!
+
+[Anomaly] b=136, a=337: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=349: Case 3 but has 12 factors!
+
+[Anomaly] b=136, a=365: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=389: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=421: Case 3 but has 4 factors!
+
+[Anomaly] b=136, a=443: Case 3 but has 8 factors!
+
+[Anomaly] b=136, a=553: Case 3 but has 12 factors!
+
+[Anomaly] b=136, a=605: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=617: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=643: Case 3 but has 6 factors!
+
+[Anomaly] b=136, a=659: Case 3 but has 4 factors!
+
+[Anomaly] b=136, a=689: Case 3 but has 10 factors!
+
+[Anomaly] b=136, a=695: Case 3 but has 8 factors!
+
+[Anomaly] b=136, a=725: Case 3 but has 10 factors!
+
+[Anomaly] b=136, a=853: Case 3 but has 12 factors!
+
+[Anomaly] b=136, a=859: Case 3 but has 10 factors!
+
+[Anomaly] b=136, a=941: Case 3 but has 6 factors!
+
+[Anomaly] b=138, a=1: Case 3 but has 6 factors!
+
+[Anomaly] b=138, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=138, a=29: Case 3 but has 14 factors!
+
+[Anomaly] b=138, a=35: Case 3 but has 8 factors!
+
+[Anomaly] b=138, a=59: Case 3 but has 4 factors!
+
+[Anomaly] b=138, a=73: Case 3 but has 6 factors!
+
+[Anomaly] b=138, a=97: Case 3 but has 6 factors!
+
+[Anomaly] b=138, a=175: Case 3 but has 4 factors!
+
+[Anomaly] b=138, a=229: Case 3 but has 4 factors!
+
+[Anomaly] b=138, a=277: Case 3 but has 8 factors!
+
+[Anomaly] b=138, a=331: Case 3 but has 10 factors!
+
+[Anomaly] b=138, a=373: Case 3 but has 4 factors!
+
+[Anomaly] b=138, a=395: Case 3 but has 4 factors!
+
+[Anomaly] b=138, a=403: Case 3 but has 10 factors!
+
+[Anomaly] b=138, a=475: Case 3 but has 10 factors!
+
+[Anomaly] b=138, a=487: Case 3 but has 4 factors!
+
+[Anomaly] b=138, a=557: Case 3 but has 6 factors!
+
+[Anomaly] b=138, a=559: Case 3 but has 6 factors!
+
+[Anomaly] b=138, a=565: Case 3 but has 8 factors!
+
+[Anomaly] b=138, a=595: Case 3 but has 6 factors!
+
+[Anomaly] b=138, a=631: Case 3 but has 6 factors!
+
+[Anomaly] b=138, a=695: Case 3 but has 8 factors!
+
+[Anomaly] b=138, a=733: Case 3 but has 4 factors!
+
+[Anomaly] b=138, a=749: Case 3 but has 6 factors!
+
+[Anomaly] b=138, a=781: Case 3 but has 12 factors!
+
+[Anomaly] b=138, a=829: Case 3 but has 8 factors!
+
+[Anomaly] b=138, a=847: Case 3 but has 10 factors!
+
+[Anomaly] b=138, a=887: Case 3 but has 8 factors!
+
+[Anomaly] b=138, a=889: Case 3 but has 12 factors!
+
+[Anomaly] b=138, a=893: Case 3 but has 6 factors!
+
+[Anomaly] b=138, a=923: Case 3 but has 8 factors!
+
+[Anomaly] b=138, a=947: Case 3 but has 12 factors!
+
+[Anomaly] b=138, a=965: Case 3 but has 10 factors!
+
+[Anomaly] b=140, a=17: Case 3 but has 12 factors!
+
+[Anomaly] b=140, a=43: Case 3 but has 6 factors!
+
+[Anomaly] b=140, a=53: Case 3 but has 10 factors!
+
+[Anomaly] b=140, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=140, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=140, a=179: Case 3 but has 16 factors!
+
+[Anomaly] b=140, a=251: Case 3 but has 8 factors!Processing b=141...Processing b=142...Processing b=143...Processing b=144...Processing b=145...Processing b=146...Processing b=147...Processing b=148...Processing b=149...Processing b=150...Processing b=151...Processing b=152...
+
+[Anomaly] b=140, a=263: Case 3 but has 6 factors!
+
+[Anomaly] b=140, a=299: Case 3 but has 8 factors!
+
+[Anomaly] b=140, a=323: Case 3 but has 8 factors!
+
+[Anomaly] b=140, a=379: Case 3 but has 6 factors!
+
+[Anomaly] b=140, a=389: Case 3 but has 6 factors!
+
+[Anomaly] b=140, a=449: Case 3 but has 4 factors!
+
+[Anomaly] b=140, a=451: Case 3 but has 6 factors!
+
+[Anomaly] b=140, a=493: Case 3 but has 8 factors!
+
+[Anomaly] b=140, a=523: Case 3 but has 6 factors!
+
+[Anomaly] b=140, a=613: Case 3 but has 8 factors!
+
+[Anomaly] b=140, a=647: Case 3 but has 8 factors!
+
+[Anomaly] b=140, a=659: Case 3 but has 4 factors!
+
+[Anomaly] b=140, a=667: Case 3 but has 6 factors!
+
+[Anomaly] b=140, a=817: Case 3 but has 8 factors!
+
+[Anomaly] b=140, a=871: Case 3 but has 6 factors!
+
+[Anomaly] b=140, a=883: Case 3 but has 6 factors!
+
+[Anomaly] b=140, a=929: Case 3 but has 6 factors!
+
+[Anomaly] b=142, a=1: Case 3 but has 6 factors!
+
+[Anomaly] b=142, a=17: Case 3 but has 4 factors!
+
+[Anomaly] b=142, a=41: Case 3 but has 4 factors!
+
+[Anomaly] b=142, a=67: Case 3 but has 6 factors!
+
+[Anomaly] b=142, a=95: Case 3 but has 6 factors!
+
+[Anomaly] b=142, a=125: Case 3 but has 6 factors!
+
+[Anomaly] b=142, a=143: Case 3 but has 6 factors!
+
+[Anomaly] b=142, a=185: Case 3 but has 8 factors!
+
+[Anomaly] b=142, a=253: Case 3 but has 8 factors!
+
+[Anomaly] b=142, a=275: Case 3 but has 4 factors!
+
+[Anomaly] b=142, a=325: Case 3 but has 4 factors!
+
+[Anomaly] b=142, a=365: Case 3 but has 10 factors!
+
+[Anomaly] b=142, a=433: Case 3 but has 6 factors!
+
+[Anomaly] b=142, a=517: Case 3 but has 12 factors!
+
+[Anomaly] b=142, a=649: Case 3 but has 8 factors!
+
+[Anomaly] b=142, a=689: Case 3 but has 6 factors!
+
+[Anomaly] b=142, a=779: Case 3 but has 12 factors!
+
+[Anomaly] b=142, a=841: Case 3 but has 12 factors!
+
+[Anomaly] b=142, a=955: Case 3 but has 6 factors!
+
+[Anomaly] b=144, a=17: Case 3 but has 4 factors!
+
+[Anomaly] b=144, a=35: Case 3 but has 12 factors!
+
+[Anomaly] b=144, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=144, a=85: Case 3 but has 12 factors!
+
+[Anomaly] b=144, a=103: Case 3 but has 4 factors!
+
+[Anomaly] b=144, a=107: Case 3 but has 4 factors!
+
+[Anomaly] b=144, a=127: Case 3 but has 4 factors!
+
+[Anomaly] b=144, a=185: Case 3 but has 8 factors!
+
+[Anomaly] b=144, a=217: Case 3 but has 6 factors!
+
+[Anomaly] b=144, a=277: Case 3 but has 8 factors!
+
+[Anomaly] b=144, a=281: Case 3 but has 8 factors!
+
+[Anomaly] b=144, a=299: Case 3 but has 4 factors!
+
+[Anomaly] b=144, a=359: Case 3 but has 6 factors!
+
+[Anomaly] b=144, a=425: Case 3 but has 8 factors!
+
+[Anomaly] b=144, a=433: Case 3 but has 6 factors!
+
+[Anomaly] b=144, a=475: Case 3 but has 10 factors!
+
+[Anomaly] b=144, a=497: Case 3 but has 8 factors!
+
+[Anomaly] b=144, a=545: Case 3 but has 12 factors!
+
+[Anomaly] b=144, a=557: Case 3 but has 10 factors!
+
+[Anomaly] b=144, a=575: Case 3 but has 10 factors!
+
+[Anomaly] b=144, a=649: Case 3 but has 8 factors!
+
+[Anomaly] b=144, a=665: Case 3 but has 10 factors!
+
+[Anomaly] b=144, a=677: Case 3 but has 6 factors!
+
+[Anomaly] b=144, a=697: Case 3 but has 8 factors!
+
+[Anomaly] b=144, a=757: Case 3 but has 8 factors!
+
+[Anomaly] b=144, a=787: Case 3 but has 6 factors!
+
+[Anomaly] b=144, a=833: Case 3 but has 10 factors!
+
+[Anomaly] b=144, a=865: Case 3 but has 12 factors!
+
+[Anomaly] b=144, a=893: Case 3 but has 10 factors!
+
+[Anomaly] b=144, a=917: Case 3 but has 10 factors!
+
+[Anomaly] b=144, a=985: Case 3 but has 4 factors!
+
+[Anomaly] b=146, a=71: Case 3 but has 6 factors!
+
+[Anomaly] b=146, a=91: Case 3 but has 10 factors!
+
+[Anomaly] b=146, a=139: Case 3 but has 6 factors!
+
+[Anomaly] b=146, a=149: Case 3 but has 6 factors!
+
+[Anomaly] b=146, a=175: Case 3 but has 4 factors!
+
+[Anomaly] b=146, a=337: Case 3 but has 6 factors!
+
+[Anomaly] b=146, a=347: Case 3 but has 4 factors!
+
+[Anomaly] b=146, a=355: Case 3 but has 6 factors!
+
+[Anomaly] b=146, a=379: Case 3 but has 6 factors!
+
+[Anomaly] b=146, a=383: Case 3 but has 6 factors!
+
+[Anomaly] b=146, a=395: Case 3 but has 4 factors!
+
+[Anomaly] b=146, a=445: Case 3 but has 8 factors!
+
+[Anomaly] b=146, a=523: Case 3 but has 6 factors!
+
+[Anomaly] b=146, a=563: Case 3 but has 8 factors!
+
+[Anomaly] b=146, a=589: Case 3 but has 8 factors!
+
+[Anomaly] b=146, a=595: Case 3 but has 6 factors!
+
+[Anomaly] b=146, a=635: Case 3 but has 12 factors!
+
+[Anomaly] b=146, a=661: Case 3 but has 8 factors!
+
+[Anomaly] b=146, a=683: Case 3 but has 8 factors!
+
+[Anomaly] b=146, a=703: Case 3 but has 6 factors!
+
+[Anomaly] b=146, a=779: Case 3 but has 4 factors!
+
+[Anomaly] b=146, a=791: Case 3 but has 4 factors!
+
+[Anomaly] b=146, a=869: Case 3 but has 10 factors!
+
+[Anomaly] b=146, a=877: Case 3 but has 8 factors!
+
+[Anomaly] b=148, a=35: Case 3 but has 12 factors!
+
+[Anomaly] b=148, a=79: Case 3 but has 8 factors!
+
+[Anomaly] b=148, a=97: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=115: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=119: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=151: Case 3 but has 12 factors!
+
+[Anomaly] b=148, a=187: Case 3 but has 10 factors!
+
+[Anomaly] b=148, a=289: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=307: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=353: Case 3 but has 4 factors!
+
+[Anomaly] b=148, a=397: Case 3 but has 16 factors!
+
+[Anomaly] b=148, a=431: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=461: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=493: Case 3 but has 8 factors!
+
+[Anomaly] b=148, a=497: Case 3 but has 8 factors!
+
+[Anomaly] b=148, a=503: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=557: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=565: Case 3 but has 8 factors!
+
+[Anomaly] b=148, a=577: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=583: Case 3 but has 12 factors!
+
+[Anomaly] b=148, a=647: Case 3 but has 8 factors!
+
+[Anomaly] b=148, a=659: Case 3 but has 4 factors!
+
+[Anomaly] b=148, a=667: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=673: Case 3 but has 8 factors!
+
+[Anomaly] b=148, a=727: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=785: Case 3 but has 6 factors!
+
+[Anomaly] b=148, a=935: Case 3 but has 8 factors!
+
+[Anomaly] b=148, a=997: Case 3 but has 8 factors!
+
+[Anomaly] b=150, a=11: Case 3 but has 8 factors!
+
+[Anomaly] b=150, a=13: Case 3 but has 8 factors!
+
+[Anomaly] b=150, a=79: Case 3 but has 12 factors!
+
+[Anomaly] b=150, a=119: Case 3 but has 6 factors!
+
+[Anomaly] b=150, a=193: Case 3 but has 6 factors!
+
+[Anomaly] b=150, a=209: Case 3 but has 12 factors!
+
+[Anomaly] b=150, a=373: Case 3 but has 4 factors!
+
+[Anomaly] b=150, a=449: Case 3 but has 4 factors!
+
+[Anomaly] b=150, a=511: Case 3 but has 4 factors!
+
+[Anomaly] b=150, a=541: Case 3 but has 8 factors!
+
+[Anomaly] b=150, a=571: Case 3 but has 6 factors!
+
+[Anomaly] b=150, a=583: Case 3 but has 8 factors!
+
+[Anomaly] b=150, a=611: Case 3 but has 8 factors!
+
+[Anomaly] b=150, a=659: Case 3 but has 12 factors!
+
+[Anomaly] b=150, a=727: Case 3 but has 6 factors!
+
+[Anomaly] b=150, a=761: Case 3 but has 6 factors!
+
+[Anomaly] b=150, a=769: Case 3 but has 8 factors!
+
+[Anomaly] b=150, a=773: Case 3 but has 6 factors!
+
+[Anomaly] b=150, a=781: Case 3 but has 4 factors!
+
+[Anomaly] b=150, a=811: Case 3 but has 6 factors!
+
+[Anomaly] b=150, a=823: Case 3 but has 10 factors!
+
+[Anomaly] b=150, a=839: Case 3 but has 8 factors!
+
+[Anomaly] b=150, a=853: Case 3 but has 8 factors!
+
+[Anomaly] b=150, a=857: Case 3 but has 14 factors!
+
+[Anomaly] b=150, a=863: Case 3 but has 8 factors!
+
+[Anomaly] b=150, a=871: Case 3 but has 6 factors!
+
+[Anomaly] b=150, a=923: Case 3 but has 12 factors!
+
+[Anomaly] b=152, a=13: Case 3 but has 12 factors!
+
+[Anomaly] b=152, a=101: Case 3 but has 10 factors!
+
+[Anomaly] b=152, a=155: Case 3 but has 4 factors!
+
+[Anomaly] b=152, a=187: Case 3 but has 6 factors!
+
+[Anomaly] b=152, a=203: Case 3 but has 8 factors!
+
+[Anomaly] b=152, a=257: Case 3 but has 4 factors!
+
+[Anomaly] b=152, a=281: Case 3 but has 4 factors!
+
+[Anomaly] b=152, a=283: Case 3 but has 10 factors!
+
+[Anomaly] b=152, a=371: Case 3 but has 4 factors!
+
+[Anomaly] b=152, a=383: Case 3 but has 6 factors!
+
+[Anomaly] b=152, a=409: Case 3 but has 6 factors!
+
+[Anomaly] b=152, a=443: Case 3 but has 12 factors!
+
+[Anomaly] b=152, a=457: Case 3 but has 6 factors!
+
+[Anomaly] b=152, a=491: Case 3 but has 4 factors!Processing b=153...Processing b=154...Processing b=155...Processing b=156...Processing b=157...Processing b=158...Processing b=159...Processing b=160...Processing b=161...Processing b=162...Processing b=163...Processing b=164...Processing b=165...Processing b=166...
+
+[Anomaly] b=152, a=493: Case 3 but has 4 factors!
+
+[Anomaly] b=152, a=545: Case 3 but has 8 factors!
+
+[Anomaly] b=152, a=565: Case 3 but has 4 factors!
+
+[Anomaly] b=152, a=637: Case 3 but has 4 factors!
+
+[Anomaly] b=152, a=659: Case 3 but has 8 factors!
+
+[Anomaly] b=152, a=661: Case 3 but has 4 factors!
+
+[Anomaly] b=152, a=727: Case 3 but has 6 factors!
+
+[Anomaly] b=152, a=733: Case 3 but has 4 factors!
+
+[Anomaly] b=152, a=799: Case 3 but has 10 factors!
+
+[Anomaly] b=152, a=859: Case 3 but has 6 factors!
+
+[Anomaly] b=152, a=907: Case 3 but has 6 factors!
+
+[Anomaly] b=152, a=959: Case 3 but has 4 factors!
+
+[Anomaly] b=152, a=961: Case 3 but has 8 factors!
+
+[Anomaly] b=154, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=154, a=79: Case 3 but has 8 factors!
+
+[Anomaly] b=154, a=101: Case 3 but has 10 factors!
+
+[Anomaly] b=154, a=115: Case 3 but has 6 factors!
+
+[Anomaly] b=154, a=263: Case 3 but has 6 factors!
+
+[Anomaly] b=154, a=265: Case 3 but has 6 factors!
+
+[Anomaly] b=154, a=295: Case 3 but has 4 factors!
+
+[Anomaly] b=154, a=313: Case 3 but has 6 factors!
+
+[Anomaly] b=154, a=389: Case 3 but has 6 factors!
+
+[Anomaly] b=154, a=409: Case 3 but has 6 factors!
+
+[Anomaly] b=154, a=439: Case 3 but has 8 factors!
+
+[Anomaly] b=154, a=509: Case 3 but has 6 factors!
+
+[Anomaly] b=154, a=545: Case 3 but has 4 factors!
+
+[Anomaly] b=154, a=565: Case 3 but has 12 factors!
+
+[Anomaly] b=154, a=653: Case 3 but has 10 factors!
+
+[Anomaly] b=154, a=835: Case 3 but has 10 factors!
+
+[Anomaly] b=154, a=877: Case 3 but has 8 factors!
+
+[Anomaly] b=154, a=925: Case 3 but has 4 factors!
+
+[Anomaly] b=154, a=985: Case 3 but has 4 factors!
+
+[Anomaly] b=156, a=17: Case 3 but has 12 factors!
+
+[Anomaly] b=156, a=103: Case 3 but has 8 factors!
+
+[Anomaly] b=156, a=161: Case 3 but has 4 factors!
+
+[Anomaly] b=156, a=181: Case 3 but has 4 factors!
+
+[Anomaly] b=156, a=241: Case 3 but has 6 factors!
+
+[Anomaly] b=156, a=275: Case 3 but has 12 factors!
+
+[Anomaly] b=156, a=371: Case 3 but has 4 factors!
+
+[Anomaly] b=156, a=397: Case 3 but has 4 factors!
+
+[Anomaly] b=156, a=421: Case 3 but has 4 factors!
+
+[Anomaly] b=156, a=439: Case 3 but has 8 factors!
+
+[Anomaly] b=156, a=485: Case 3 but has 10 factors!
+
+[Anomaly] b=156, a=679: Case 3 but has 6 factors!
+
+[Anomaly] b=156, a=707: Case 3 but has 8 factors!
+
+[Anomaly] b=156, a=745: Case 3 but has 8 factors!
+
+[Anomaly] b=156, a=811: Case 3 but has 6 factors!
+
+[Anomaly] b=156, a=841: Case 3 but has 4 factors!
+
+[Anomaly] b=156, a=853: Case 3 but has 4 factors!
+
+[Anomaly] b=156, a=877: Case 3 but has 8 factors!
+
+[Anomaly] b=156, a=883: Case 3 but has 6 factors!
+
+[Anomaly] b=156, a=925: Case 3 but has 8 factors!
+
+[Anomaly] b=156, a=985: Case 3 but has 4 factors!
+
+[Anomaly] b=158, a=7: Case 3 but has 8 factors!
+
+[Anomaly] b=158, a=83: Case 3 but has 4 factors!
+
+[Anomaly] b=158, a=97: Case 3 but has 6 factors!
+
+[Anomaly] b=158, a=119: Case 3 but has 10 factors!
+
+[Anomaly] b=158, a=155: Case 3 but has 8 factors!
+
+[Anomaly] b=158, a=173: Case 3 but has 10 factors!
+
+[Anomaly] b=158, a=191: Case 3 but has 10 factors!
+
+[Anomaly] b=158, a=197: Case 3 but has 6 factors!
+
+[Anomaly] b=158, a=325: Case 3 but has 4 factors!
+
+[Anomaly] b=158, a=361: Case 3 but has 6 factors!
+
+[Anomaly] b=158, a=379: Case 3 but has 6 factors!
+
+[Anomaly] b=158, a=631: Case 3 but has 8 factors!
+
+[Anomaly] b=158, a=719: Case 3 but has 4 factors!
+
+[Anomaly] b=158, a=767: Case 3 but has 4 factors!
+
+[Anomaly] b=158, a=835: Case 3 but has 6 factors!
+
+[Anomaly] b=158, a=839: Case 3 but has 4 factors!
+
+[Anomaly] b=158, a=845: Case 3 but has 6 factors!
+
+[Anomaly] b=158, a=865: Case 3 but has 4 factors!
+
+[Anomaly] b=158, a=971: Case 3 but has 4 factors!
+
+[Anomaly] b=160, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=160, a=283: Case 3 but has 6 factors!
+
+[Anomaly] b=160, a=289: Case 3 but has 6 factors!
+
+[Anomaly] b=160, a=319: Case 3 but has 4 factors!
+
+[Anomaly] b=160, a=377: Case 3 but has 4 factors!
+
+[Anomaly] b=160, a=467: Case 3 but has 4 factors!
+
+[Anomaly] b=160, a=469: Case 3 but has 4 factors!
+
+[Anomaly] b=160, a=487: Case 3 but has 8 factors!
+
+[Anomaly] b=160, a=527: Case 3 but has 6 factors!
+
+[Anomaly] b=160, a=559: Case 3 but has 8 factors!
+
+[Anomaly] b=160, a=683: Case 3 but has 8 factors!
+
+[Anomaly] b=160, a=721: Case 3 but has 8 factors!
+
+[Anomaly] b=160, a=773: Case 3 but has 6 factors!
+
+[Anomaly] b=160, a=787: Case 3 but has 6 factors!
+
+[Anomaly] b=160, a=937: Case 3 but has 4 factors!
+
+[Anomaly] b=162, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=162, a=37: Case 3 but has 12 factors!
+
+[Anomaly] b=162, a=89: Case 3 but has 12 factors!
+
+[Anomaly] b=162, a=155: Case 3 but has 8 factors!
+
+[Anomaly] b=162, a=199: Case 3 but has 4 factors!
+
+[Anomaly] b=162, a=205: Case 3 but has 8 factors!
+
+[Anomaly] b=162, a=233: Case 3 but has 4 factors!
+
+[Anomaly] b=162, a=241: Case 3 but has 6 factors!
+
+[Anomaly] b=162, a=325: Case 3 but has 4 factors!
+
+[Anomaly] b=162, a=335: Case 3 but has 10 factors!
+
+[Anomaly] b=162, a=407: Case 3 but has 10 factors!
+
+[Anomaly] b=162, a=427: Case 3 but has 6 factors!
+
+[Anomaly] b=162, a=457: Case 3 but has 6 factors!
+
+[Anomaly] b=162, a=463: Case 3 but has 4 factors!
+
+[Anomaly] b=162, a=467: Case 3 but has 4 factors!
+
+[Anomaly] b=162, a=473: Case 3 but has 4 factors!
+
+[Anomaly] b=162, a=493: Case 3 but has 12 factors!
+
+[Anomaly] b=162, a=497: Case 3 but has 8 factors!
+
+[Anomaly] b=162, a=527: Case 3 but has 6 factors!
+
+[Anomaly] b=162, a=607: Case 3 but has 8 factors!
+
+[Anomaly] b=162, a=643: Case 3 but has 6 factors!
+
+[Anomaly] b=162, a=683: Case 3 but has 8 factors!
+
+[Anomaly] b=162, a=695: Case 3 but has 4 factors!
+
+[Anomaly] b=162, a=709: Case 3 but has 8 factors!
+
+[Anomaly] b=162, a=721: Case 3 but has 12 factors!
+
+[Anomaly] b=162, a=761: Case 3 but has 10 factors!
+
+[Anomaly] b=162, a=775: Case 3 but has 14 factors!
+
+[Anomaly] b=162, a=787: Case 3 but has 10 factors!
+
+[Anomaly] b=162, a=865: Case 3 but has 8 factors!
+
+[Anomaly] b=162, a=911: Case 3 but has 12 factors!
+
+[Anomaly] b=162, a=955: Case 3 but has 6 factors!
+
+[Anomaly] b=164, a=5: Case 3 but has 6 factors!
+
+[Anomaly] b=164, a=31: Case 3 but has 4 factors!
+
+[Anomaly] b=164, a=35: Case 3 but has 4 factors!
+
+[Anomaly] b=164, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=164, a=77: Case 3 but has 10 factors!
+
+[Anomaly] b=164, a=95: Case 3 but has 10 factors!
+
+[Anomaly] b=164, a=107: Case 3 but has 8 factors!
+
+[Anomaly] b=164, a=113: Case 3 but has 4 factors!
+
+[Anomaly] b=164, a=131: Case 3 but has 4 factors!
+
+[Anomaly] b=164, a=145: Case 3 but has 6 factors!
+
+[Anomaly] b=164, a=197: Case 3 but has 6 factors!
+
+[Anomaly] b=164, a=253: Case 3 but has 4 factors!
+
+[Anomaly] b=164, a=373: Case 3 but has 4 factors!
+
+[Anomaly] b=164, a=485: Case 3 but has 6 factors!
+
+[Anomaly] b=164, a=487: Case 3 but has 8 factors!
+
+[Anomaly] b=164, a=491: Case 3 but has 4 factors!
+
+[Anomaly] b=164, a=499: Case 3 but has 10 factors!
+
+[Anomaly] b=164, a=553: Case 3 but has 6 factors!
+
+[Anomaly] b=164, a=589: Case 3 but has 4 factors!
+
+[Anomaly] b=164, a=613: Case 3 but has 8 factors!
+
+[Anomaly] b=164, a=653: Case 3 but has 10 factors!
+
+[Anomaly] b=164, a=751: Case 3 but has 6 factors!
+
+[Anomaly] b=164, a=755: Case 3 but has 4 factors!
+
+[Anomaly] b=164, a=881: Case 3 but has 6 factors!
+
+[Anomaly] b=164, a=913: Case 3 but has 8 factors!
+
+[Anomaly] b=164, a=995: Case 3 but has 12 factors!
+
+[Anomaly] b=166, a=109: Case 3 but has 4 factors!
+
+[Anomaly] b=166, a=137: Case 3 but has 4 factors!
+
+[Anomaly] b=166, a=163: Case 3 but has 6 factors!
+
+[Anomaly] b=166, a=199: Case 3 but has 8 factors!
+
+[Anomaly] b=166, a=253: Case 3 but has 4 factors!
+
+[Anomaly] b=166, a=259: Case 3 but has 6 factors!
+
+[Anomaly] b=166, a=281: Case 3 but has 4 factors!
+
+[Anomaly] b=166, a=287: Case 3 but has 6 factors!
+
+[Anomaly] b=166, a=295: Case 3 but has 4 factors!
+
+[Anomaly] b=166, a=325: Case 3 but has 4 factors!
+
+[Anomaly] b=166, a=395: Case 3 but has 8 factors!
+
+[Anomaly] b=166, a=407: Case 3 but has 6 factors!
+
+[Anomaly] b=166, a=433: Case 3 but has 10 factors!
+
+[Anomaly] b=166, a=487: Case 3 but has 4 factors!
+
+[Anomaly] b=166, a=595: Case 3 but has 10 factors!
+
+[Anomaly] b=166, a=641: Case 3 but has 4 factors!
+
+[Anomaly] b=166, a=647: Case 3 but has 6 factors!Processing b=167...Processing b=168...Processing b=169...Processing b=170...Processing b=171...Processing b=172...Processing b=173...Processing b=174...Processing b=175...Processing b=176...Processing b=177...Processing b=178...Processing b=179...Processing b=180...Processing b=181...Processing b=182...
+
+[Anomaly] b=166, a=737: Case 3 but has 10 factors!
+
+[Anomaly] b=166, a=875: Case 3 but has 4 factors!
+
+[Anomaly] b=166, a=901: Case 3 but has 4 factors!
+
+[Anomaly] b=166, a=937: Case 3 but has 12 factors!
+
+[Anomaly] b=166, a=965: Case 3 but has 6 factors!
+
+[Anomaly] b=166, a=971: Case 3 but has 4 factors!
+
+[Anomaly] b=168, a=1: Case 3 but has 10 factors!
+
+[Anomaly] b=168, a=5: Case 3 but has 6 factors!
+
+[Anomaly] b=168, a=11: Case 3 but has 8 factors!
+
+[Anomaly] b=168, a=53: Case 3 but has 14 factors!
+
+[Anomaly] b=168, a=89: Case 3 but has 8 factors!
+
+[Anomaly] b=168, a=233: Case 3 but has 8 factors!
+
+[Anomaly] b=168, a=275: Case 3 but has 8 factors!
+
+[Anomaly] b=168, a=281: Case 3 but has 4 factors!
+
+[Anomaly] b=168, a=395: Case 3 but has 4 factors!
+
+[Anomaly] b=168, a=457: Case 3 but has 6 factors!
+
+[Anomaly] b=168, a=485: Case 3 but has 6 factors!
+
+[Anomaly] b=168, a=527: Case 3 but has 6 factors!
+
+[Anomaly] b=168, a=625: Case 3 but has 14 factors!
+
+[Anomaly] b=168, a=643: Case 3 but has 6 factors!
+
+[Anomaly] b=168, a=655: Case 3 but has 12 factors!
+
+[Anomaly] b=168, a=697: Case 3 but has 4 factors!
+
+[Anomaly] b=168, a=757: Case 3 but has 4 factors!
+
+[Anomaly] b=168, a=821: Case 3 but has 10 factors!
+
+[Anomaly] b=168, a=829: Case 3 but has 8 factors!
+
+[Anomaly] b=168, a=863: Case 3 but has 4 factors!
+
+[Anomaly] b=168, a=869: Case 3 but has 6 factors!
+
+[Anomaly] b=168, a=977: Case 3 but has 6 factors!
+
+[Anomaly] b=168, a=991: Case 3 but has 10 factors!
+
+[Anomaly] b=170, a=13: Case 3 but has 4 factors!
+
+[Anomaly] b=170, a=29: Case 3 but has 6 factors!
+
+[Anomaly] b=170, a=47: Case 3 but has 6 factors!
+
+[Anomaly] b=170, a=103: Case 3 but has 8 factors!
+
+[Anomaly] b=170, a=157: Case 3 but has 4 factors!
+
+[Anomaly] b=170, a=257: Case 3 but has 12 factors!
+
+[Anomaly] b=170, a=299: Case 3 but has 8 factors!
+
+[Anomaly] b=170, a=329: Case 3 but has 8 factors!
+
+[Anomaly] b=170, a=439: Case 3 but has 12 factors!
+
+[Anomaly] b=170, a=463: Case 3 but has 4 factors!
+
+[Anomaly] b=170, a=571: Case 3 but has 6 factors!
+
+[Anomaly] b=170, a=661: Case 3 but has 4 factors!
+
+[Anomaly] b=170, a=781: Case 3 but has 4 factors!
+
+[Anomaly] b=170, a=853: Case 3 but has 4 factors!
+
+[Anomaly] b=170, a=857: Case 3 but has 10 factors!
+
+[Anomaly] b=170, a=859: Case 3 but has 6 factors!
+
+[Anomaly] b=170, a=889: Case 3 but has 4 factors!
+
+[Anomaly] b=170, a=979: Case 3 but has 6 factors!
+
+[Anomaly] b=172, a=29: Case 3 but has 10 factors!
+
+[Anomaly] b=172, a=47: Case 3 but has 10 factors!
+
+[Anomaly] b=172, a=59: Case 3 but has 8 factors!
+
+[Anomaly] b=172, a=79: Case 3 but has 4 factors!
+
+[Anomaly] b=172, a=101: Case 3 but has 6 factors!
+
+[Anomaly] b=172, a=121: Case 3 but has 6 factors!
+
+[Anomaly] b=172, a=137: Case 3 but has 8 factors!
+
+[Anomaly] b=172, a=275: Case 3 but has 4 factors!
+
+[Anomaly] b=172, a=317: Case 3 but has 10 factors!
+
+[Anomaly] b=172, a=331: Case 3 but has 6 factors!
+
+[Anomaly] b=172, a=365: Case 3 but has 6 factors!
+
+[Anomaly] b=172, a=443: Case 3 but has 4 factors!
+
+[Anomaly] b=172, a=445: Case 3 but has 8 factors!
+
+[Anomaly] b=172, a=455: Case 3 but has 6 factors!
+
+[Anomaly] b=172, a=545: Case 3 but has 12 factors!
+
+[Anomaly] b=172, a=583: Case 3 but has 4 factors!
+
+[Anomaly] b=172, a=635: Case 3 but has 8 factors!
+
+[Anomaly] b=172, a=745: Case 3 but has 8 factors!
+
+[Anomaly] b=172, a=799: Case 3 but has 6 factors!
+
+[Anomaly] b=172, a=803: Case 3 but has 4 factors!
+
+[Anomaly] b=174, a=5: Case 3 but has 6 factors!
+
+[Anomaly] b=174, a=55: Case 3 but has 12 factors!
+
+[Anomaly] b=174, a=91: Case 3 but has 6 factors!
+
+[Anomaly] b=174, a=155: Case 3 but has 8 factors!
+
+[Anomaly] b=174, a=175: Case 3 but has 4 factors!
+
+[Anomaly] b=174, a=259: Case 3 but has 6 factors!
+
+[Anomaly] b=174, a=353: Case 3 but has 8 factors!
+
+[Anomaly] b=174, a=395: Case 3 but has 4 factors!
+
+[Anomaly] b=174, a=421: Case 3 but has 12 factors!
+
+[Anomaly] b=174, a=425: Case 3 but has 4 factors!
+
+[Anomaly] b=174, a=433: Case 3 but has 6 factors!
+
+[Anomaly] b=174, a=487: Case 3 but has 4 factors!
+
+[Anomaly] b=174, a=583: Case 3 but has 8 factors!
+
+[Anomaly] b=174, a=611: Case 3 but has 4 factors!
+
+[Anomaly] b=174, a=623: Case 3 but has 10 factors!
+
+[Anomaly] b=174, a=679: Case 3 but has 8 factors!
+
+[Anomaly] b=174, a=689: Case 3 but has 12 factors!
+
+[Anomaly] b=174, a=709: Case 3 but has 4 factors!
+
+[Anomaly] b=174, a=731: Case 3 but has 12 factors!
+
+[Anomaly] b=174, a=865: Case 3 but has 4 factors!
+
+[Anomaly] b=174, a=923: Case 3 but has 8 factors!
+
+[Anomaly] b=174, a=973: Case 3 but has 8 factors!
+
+[Anomaly] b=174, a=991: Case 3 but has 10 factors!
+
+[Anomaly] b=176, a=7: Case 3 but has 8 factors!
+
+[Anomaly] b=176, a=25: Case 3 but has 6 factors!
+
+[Anomaly] b=176, a=73: Case 3 but has 10 factors!
+
+[Anomaly] b=176, a=83: Case 3 but has 8 factors!
+
+[Anomaly] b=176, a=109: Case 3 but has 8 factors!
+
+[Anomaly] b=176, a=161: Case 3 but has 4 factors!
+
+[Anomaly] b=176, a=179: Case 3 but has 4 factors!
+
+[Anomaly] b=176, a=235: Case 3 but has 6 factors!
+
+[Anomaly] b=176, a=307: Case 3 but has 10 factors!
+
+[Anomaly] b=176, a=325: Case 3 but has 4 factors!
+
+[Anomaly] b=176, a=343: Case 3 but has 12 factors!
+
+[Anomaly] b=176, a=449: Case 3 but has 12 factors!
+
+[Anomaly] b=176, a=457: Case 3 but has 6 factors!
+
+[Anomaly] b=176, a=485: Case 3 but has 6 factors!
+
+[Anomaly] b=176, a=487: Case 3 but has 8 factors!
+
+[Anomaly] b=176, a=505: Case 3 but has 6 factors!
+
+[Anomaly] b=176, a=515: Case 3 but has 4 factors!
+
+[Anomaly] b=176, a=569: Case 3 but has 4 factors!
+
+[Anomaly] b=176, a=577: Case 3 but has 6 factors!
+
+[Anomaly] b=176, a=587: Case 3 but has 16 factors!
+
+[Anomaly] b=176, a=641: Case 3 but has 12 factors!
+
+[Anomaly] b=176, a=665: Case 3 but has 8 factors!
+
+[Anomaly] b=176, a=845: Case 3 but has 6 factors!
+
+[Anomaly] b=176, a=955: Case 3 but has 6 factors!
+
+[Anomaly] b=178, a=179: Case 3 but has 8 factors!
+
+[Anomaly] b=178, a=203: Case 3 but has 12 factors!
+
+[Anomaly] b=178, a=233: Case 3 but has 4 factors!
+
+[Anomaly] b=178, a=257: Case 3 but has 8 factors!
+
+[Anomaly] b=178, a=361: Case 3 but has 6 factors!
+
+[Anomaly] b=178, a=437: Case 3 but has 6 factors!
+
+[Anomaly] b=178, a=455: Case 3 but has 10 factors!
+
+[Anomaly] b=178, a=481: Case 3 but has 6 factors!
+
+[Anomaly] b=178, a=535: Case 3 but has 4 factors!
+
+[Anomaly] b=178, a=575: Case 3 but has 6 factors!
+
+[Anomaly] b=178, a=701: Case 3 but has 10 factors!
+
+[Anomaly] b=178, a=743: Case 3 but has 8 factors!
+
+[Anomaly] b=178, a=751: Case 3 but has 6 factors!
+
+[Anomaly] b=178, a=757: Case 3 but has 8 factors!
+
+[Anomaly] b=178, a=815: Case 3 but has 4 factors!
+
+[Anomaly] b=178, a=823: Case 3 but has 6 factors!
+
+[Anomaly] b=178, a=833: Case 3 but has 6 factors!
+
+[Anomaly] b=178, a=847: Case 3 but has 6 factors!
+
+[Anomaly] b=178, a=865: Case 3 but has 8 factors!
+
+[Anomaly] b=178, a=973: Case 3 but has 12 factors!
+
+[Anomaly] b=180, a=61: Case 3 but has 4 factors!
+
+[Anomaly] b=180, a=71: Case 3 but has 10 factors!
+
+[Anomaly] b=180, a=121: Case 3 but has 6 factors!
+
+[Anomaly] b=180, a=221: Case 3 but has 10 factors!
+
+[Anomaly] b=180, a=223: Case 3 but has 8 factors!
+
+[Anomaly] b=180, a=377: Case 3 but has 8 factors!
+
+[Anomaly] b=180, a=497: Case 3 but has 8 factors!
+
+[Anomaly] b=180, a=539: Case 3 but has 8 factors!
+
+[Anomaly] b=180, a=559: Case 3 but has 4 factors!
+
+[Anomaly] b=180, a=641: Case 3 but has 4 factors!
+
+[Anomaly] b=180, a=767: Case 3 but has 8 factors!
+
+[Anomaly] b=180, a=839: Case 3 but has 12 factors!
+
+[Anomaly] b=180, a=871: Case 3 but has 6 factors!
+
+[Anomaly] b=180, a=877: Case 3 but has 4 factors!
+
+[Anomaly] b=180, a=881: Case 3 but has 6 factors!
+
+[Anomaly] b=182, a=37: Case 3 but has 8 factors!
+
+[Anomaly] b=182, a=71: Case 3 but has 10 factors!
+
+[Anomaly] b=182, a=121: Case 3 but has 6 factors!
+
+[Anomaly] b=182, a=305: Case 3 but has 8 factors!
+
+[Anomaly] b=182, a=319: Case 3 but has 4 factors!
+
+[Anomaly] b=182, a=391: Case 3 but has 4 factors!
+
+[Anomaly] b=182, a=401: Case 3 but has 4 factors!
+
+[Anomaly] b=182, a=409: Case 3 but has 6 factors!
+
+[Anomaly] b=182, a=521: Case 3 but has 4 factors!
+
+[Anomaly] b=182, a=589: Case 3 but has 4 factors!
+
+[Anomaly] b=182, a=617: Case 3 but has 8 factors!
+
+[Anomaly] b=182, a=629: Case 3 but has 6 factors!Processing b=183...Processing b=184...Processing b=185...Processing b=186...Processing b=187...Processing b=188...Processing b=189...Processing b=190...Processing b=191...Processing b=192...Processing b=193...Processing b=194...Processing b=195...Processing b=196...Processing b=197...Processing b=198...
+
+[Anomaly] b=182, a=647: Case 3 but has 6 factors!
+
+[Anomaly] b=182, a=701: Case 3 but has 6 factors!
+
+[Anomaly] b=182, a=809: Case 3 but has 6 factors!
+
+[Anomaly] b=182, a=811: Case 3 but has 10 factors!
+
+[Anomaly] b=182, a=901: Case 3 but has 4 factors!
+
+[Anomaly] b=182, a=919: Case 3 but has 6 factors!
+
+[Anomaly] b=184, a=35: Case 3 but has 8 factors!
+
+[Anomaly] b=184, a=79: Case 3 but has 8 factors!
+
+[Anomaly] b=184, a=119: Case 3 but has 10 factors!
+
+[Anomaly] b=184, a=181: Case 3 but has 4 factors!
+
+[Anomaly] b=184, a=259: Case 3 but has 10 factors!
+
+[Anomaly] b=184, a=289: Case 3 but has 6 factors!
+
+[Anomaly] b=184, a=343: Case 3 but has 8 factors!
+
+[Anomaly] b=184, a=377: Case 3 but has 4 factors!
+
+[Anomaly] b=184, a=425: Case 3 but has 4 factors!
+
+[Anomaly] b=184, a=565: Case 3 but has 8 factors!
+
+[Anomaly] b=184, a=569: Case 3 but has 4 factors!
+
+[Anomaly] b=184, a=605: Case 3 but has 6 factors!
+
+[Anomaly] b=184, a=623: Case 3 but has 6 factors!
+
+[Anomaly] b=184, a=641: Case 3 but has 8 factors!
+
+[Anomaly] b=184, a=659: Case 3 but has 4 factors!
+
+[Anomaly] b=184, a=685: Case 3 but has 4 factors!
+
+[Anomaly] b=184, a=755: Case 3 but has 4 factors!
+
+[Anomaly] b=184, a=809: Case 3 but has 14 factors!
+
+[Anomaly] b=184, a=829: Case 3 but has 8 factors!
+
+[Anomaly] b=184, a=853: Case 3 but has 4 factors!
+
+[Anomaly] b=184, a=973: Case 3 but has 4 factors!
+
+[Anomaly] b=184, a=991: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=47: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=49: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=71: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=125: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=137: Case 3 but has 8 factors!
+
+[Anomaly] b=186, a=149: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=187: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=251: Case 3 but has 8 factors!
+
+[Anomaly] b=186, a=253: Case 3 but has 8 factors!
+
+[Anomaly] b=186, a=269: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=305: Case 3 but has 8 factors!
+
+[Anomaly] b=186, a=371: Case 3 but has 8 factors!
+
+[Anomaly] b=186, a=431: Case 3 but has 10 factors!
+
+[Anomaly] b=186, a=451: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=455: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=503: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=523: Case 3 but has 10 factors!
+
+[Anomaly] b=186, a=623: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=625: Case 3 but has 10 factors!
+
+[Anomaly] b=186, a=631: Case 3 but has 8 factors!
+
+[Anomaly] b=186, a=667: Case 3 but has 6 factors!
+
+[Anomaly] b=186, a=695: Case 3 but has 10 factors!
+
+[Anomaly] b=186, a=733: Case 3 but has 4 factors!
+
+[Anomaly] b=186, a=755: Case 3 but has 8 factors!
+
+[Anomaly] b=186, a=761: Case 3 but has 10 factors!
+
+[Anomaly] b=186, a=779: Case 3 but has 4 factors!
+
+[Anomaly] b=186, a=803: Case 3 but has 8 factors!
+
+[Anomaly] b=186, a=841: Case 3 but has 8 factors!
+
+[Anomaly] b=186, a=865: Case 3 but has 8 factors!
+
+[Anomaly] b=186, a=941: Case 3 but has 10 factors!
+
+[Anomaly] b=186, a=965: Case 3 but has 10 factors!
+
+[Anomaly] b=188, a=13: Case 3 but has 8 factors!
+
+[Anomaly] b=188, a=121: Case 3 but has 6 factors!
+
+[Anomaly] b=188, a=367: Case 3 but has 8 factors!
+
+[Anomaly] b=188, a=425: Case 3 but has 8 factors!
+
+[Anomaly] b=188, a=445: Case 3 but has 8 factors!
+
+[Anomaly] b=188, a=455: Case 3 but has 6 factors!
+
+[Anomaly] b=188, a=473: Case 3 but has 4 factors!
+
+[Anomaly] b=188, a=571: Case 3 but has 10 factors!
+
+[Anomaly] b=188, a=619: Case 3 but has 6 factors!
+
+[Anomaly] b=188, a=653: Case 3 but has 6 factors!
+
+[Anomaly] b=188, a=691: Case 3 but has 6 factors!
+
+[Anomaly] b=188, a=769: Case 3 but has 4 factors!
+
+[Anomaly] b=188, a=805: Case 3 but has 4 factors!
+
+[Anomaly] b=188, a=983: Case 3 but has 8 factors!
+
+[Anomaly] b=188, a=997: Case 3 but has 4 factors!
+
+[Anomaly] b=190, a=7: Case 3 but has 8 factors!
+
+[Anomaly] b=190, a=23: Case 3 but has 6 factors!
+
+[Anomaly] b=190, a=31: Case 3 but has 4 factors!
+
+[Anomaly] b=190, a=41: Case 3 but has 4 factors!
+
+[Anomaly] b=190, a=149: Case 3 but has 6 factors!
+
+[Anomaly] b=190, a=167: Case 3 but has 10 factors!
+
+[Anomaly] b=190, a=169: Case 3 but has 6 factors!
+
+[Anomaly] b=190, a=187: Case 3 but has 6 factors!
+
+[Anomaly] b=190, a=203: Case 3 but has 8 factors!
+
+[Anomaly] b=190, a=221: Case 3 but has 6 factors!
+
+[Anomaly] b=190, a=229: Case 3 but has 4 factors!
+
+[Anomaly] b=190, a=239: Case 3 but has 6 factors!
+
+[Anomaly] b=190, a=259: Case 3 but has 6 factors!
+
+[Anomaly] b=190, a=313: Case 3 but has 6 factors!
+
+[Anomaly] b=190, a=353: Case 3 but has 4 factors!
+
+[Anomaly] b=190, a=419: Case 3 but has 4 factors!
+
+[Anomaly] b=190, a=439: Case 3 but has 8 factors!
+
+[Anomaly] b=190, a=527: Case 3 but has 6 factors!
+
+[Anomaly] b=190, a=673: Case 3 but has 6 factors!
+
+[Anomaly] b=190, a=707: Case 3 but has 8 factors!
+
+[Anomaly] b=190, a=727: Case 3 but has 4 factors!
+
+[Anomaly] b=190, a=887: Case 3 but has 8 factors!
+
+[Anomaly] b=190, a=923: Case 3 but has 12 factors!
+
+[Anomaly] b=192, a=1: Case 3 but has 10 factors!
+
+[Anomaly] b=192, a=125: Case 3 but has 10 factors!
+
+[Anomaly] b=192, a=157: Case 3 but has 8 factors!
+
+[Anomaly] b=192, a=209: Case 3 but has 8 factors!
+
+[Anomaly] b=192, a=245: Case 3 but has 10 factors!
+
+[Anomaly] b=192, a=257: Case 3 but has 8 factors!
+
+[Anomaly] b=192, a=389: Case 3 but has 10 factors!
+
+[Anomaly] b=192, a=403: Case 3 but has 10 factors!
+
+[Anomaly] b=192, a=419: Case 3 but has 4 factors!
+
+[Anomaly] b=192, a=487: Case 3 but has 4 factors!
+
+[Anomaly] b=192, a=617: Case 3 but has 4 factors!
+
+[Anomaly] b=192, a=623: Case 3 but has 6 factors!
+
+[Anomaly] b=192, a=719: Case 3 but has 6 factors!
+
+[Anomaly] b=192, a=725: Case 3 but has 6 factors!
+
+[Anomaly] b=192, a=727: Case 3 but has 4 factors!
+
+[Anomaly] b=192, a=785: Case 3 but has 10 factors!
+
+[Anomaly] b=192, a=815: Case 3 but has 8 factors!
+
+[Anomaly] b=192, a=925: Case 3 but has 8 factors!
+
+[Anomaly] b=192, a=947: Case 3 but has 8 factors!
+
+[Anomaly] b=192, a=991: Case 3 but has 6 factors!
+
+[Anomaly] b=194, a=19: Case 3 but has 10 factors!
+
+[Anomaly] b=194, a=71: Case 3 but has 6 factors!
+
+[Anomaly] b=194, a=79: Case 3 but has 12 factors!
+
+[Anomaly] b=194, a=151: Case 3 but has 8 factors!
+
+[Anomaly] b=194, a=161: Case 3 but has 4 factors!
+
+[Anomaly] b=194, a=245: Case 3 but has 6 factors!
+
+[Anomaly] b=194, a=263: Case 3 but has 10 factors!
+
+[Anomaly] b=194, a=281: Case 3 but has 4 factors!
+
+[Anomaly] b=194, a=323: Case 3 but has 4 factors!
+
+[Anomaly] b=194, a=331: Case 3 but has 6 factors!
+
+[Anomaly] b=194, a=413: Case 3 but has 6 factors!
+
+[Anomaly] b=194, a=415: Case 3 but has 12 factors!
+
+[Anomaly] b=194, a=433: Case 3 but has 6 factors!
+
+[Anomaly] b=194, a=503: Case 3 but has 10 factors!
+
+[Anomaly] b=194, a=539: Case 3 but has 4 factors!
+
+[Anomaly] b=194, a=587: Case 3 but has 8 factors!
+
+[Anomaly] b=194, a=619: Case 3 but has 6 factors!
+
+[Anomaly] b=194, a=731: Case 3 but has 4 factors!
+
+[Anomaly] b=194, a=757: Case 3 but has 4 factors!
+
+[Anomaly] b=194, a=791: Case 3 but has 4 factors!
+
+[Anomaly] b=194, a=799: Case 3 but has 6 factors!
+
+[Anomaly] b=194, a=803: Case 3 but has 4 factors!
+
+[Anomaly] b=194, a=871: Case 3 but has 6 factors!
+
+[Anomaly] b=194, a=955: Case 3 but has 10 factors!
+
+[Anomaly] b=196, a=19: Case 3 but has 6 factors!
+
+[Anomaly] b=196, a=199: Case 3 but has 4 factors!
+
+[Anomaly] b=196, a=233: Case 3 but has 8 factors!
+
+[Anomaly] b=196, a=257: Case 3 but has 8 factors!
+
+[Anomaly] b=196, a=305: Case 3 but has 4 factors!
+
+[Anomaly] b=196, a=395: Case 3 but has 8 factors!
+
+[Anomaly] b=196, a=401: Case 3 but has 4 factors!
+
+[Anomaly] b=196, a=491: Case 3 but has 8 factors!
+
+[Anomaly] b=196, a=571: Case 3 but has 10 factors!
+
+[Anomaly] b=196, a=611: Case 3 but has 4 factors!
+
+[Anomaly] b=196, a=625: Case 3 but has 6 factors!
+
+[Anomaly] b=196, a=689: Case 3 but has 8 factors!
+
+[Anomaly] b=196, a=743: Case 3 but has 6 factors!
+
+[Anomaly] b=196, a=751: Case 3 but has 8 factors!
+
+[Anomaly] b=196, a=769: Case 3 but has 10 factors!
+
+[Anomaly] b=196, a=877: Case 3 but has 4 factors!
+
+[Anomaly] b=196, a=937: Case 3 but has 4 factors!
+
+[Anomaly] b=196, a=967: Case 3 but has 6 factors!
+
+[Anomaly] b=198, a=17: Case 3 but has 8 factors!
+
+[Anomaly] b=198, a=23: Case 3 but has 6 factors!Processing b=199...Processing b=200...
+Done.
+
+
+[Anomaly] b=198, a=95: Case 3 but has 6 factors!
+
+[Anomaly] b=198, a=131: Case 3 but has 4 factors!
+
+[Anomaly] b=198, a=179: Case 3 but has 4 factors!
+
+[Anomaly] b=198, a=223: Case 3 but has 8 factors!
+
+[Anomaly] b=198, a=233: Case 3 but has 12 factors!
+
+[Anomaly] b=198, a=241: Case 3 but has 10 factors!
+
+[Anomaly] b=198, a=263: Case 3 but has 10 factors!
+
+[Anomaly] b=198, a=335: Case 3 but has 6 factors!
+
+[Anomaly] b=198, a=359: Case 3 but has 6 factors!
+
+[Anomaly] b=198, a=415: Case 3 but has 8 factors!
+
+[Anomaly] b=198, a=425: Case 3 but has 8 factors!
+
+[Anomaly] b=198, a=427: Case 3 but has 10 factors!
+
+[Anomaly] b=198, a=467: Case 3 but has 8 factors!
+
+[Anomaly] b=198, a=511: Case 3 but has 12 factors!
+
+[Anomaly] b=198, a=515: Case 3 but has 4 factors!
+
+[Anomaly] b=198, a=553: Case 3 but has 10 factors!
+
+[Anomaly] b=198, a=563: Case 3 but has 4 factors!
+
+[Anomaly] b=198, a=581: Case 3 but has 10 factors!
+
+[Anomaly] b=198, a=587: Case 3 but has 4 factors!
+
+[Anomaly] b=198, a=611: Case 3 but has 4 factors!
+
+[Anomaly] b=198, a=619: Case 3 but has 6 factors!
+
+[Anomaly] b=198, a=653: Case 3 but has 6 factors!
+
+[Anomaly] b=198, a=655: Case 3 but has 4 factors!
+
+[Anomaly] b=198, a=679: Case 3 but has 12 factors!
+
+[Anomaly] b=198, a=739: Case 3 but has 10 factors!
+
+[Anomaly] b=198, a=763: Case 3 but has 6 factors!
+
+[Anomaly] b=198, a=767: Case 3 but has 6 factors!
+
+[Anomaly] b=198, a=773: Case 3 but has 10 factors!
+
+[Anomaly] b=198, a=805: Case 3 but has 12 factors!
+
+[Anomaly] b=198, a=817: Case 3 but has 8 factors!
+
+[Anomaly] b=198, a=839: Case 3 but has 4 factors!
+
+[Anomaly] b=198, a=865: Case 3 but has 4 factors!
+
+[Anomaly] b=198, a=881: Case 3 but has 6 factors!
+
+[Anomaly] b=198, a=949: Case 3 but has 4 factors!
+
+[Anomaly] b=198, a=995: Case 3 but has 8 factors!
+
+[Anomaly] b=200, a=91: Case 3 but has 6 factors!
+
+[Anomaly] b=200, a=323: Case 3 but has 8 factors!
+
+[Anomaly] b=200, a=391: Case 3 but has 8 factors!
+
+[Anomaly] b=200, a=401: Case 3 but has 8 factors!
+
+[Anomaly] b=200, a=419: Case 3 but has 8 factors!
+
+[Anomaly] b=200, a=427: Case 3 but has 6 factors!
+
+[Anomaly] b=200, a=523: Case 3 but has 6 factors!
+
+[Anomaly] b=200, a=539: Case 3 but has 4 factors!
+
+[Anomaly] b=200, a=593: Case 3 but has 8 factors!
+
+[Anomaly] b=200, a=631: Case 3 but has 4 factors!
+
+[Anomaly] b=200, a=701: Case 3 but has 6 factors!
+
+[Anomaly] b=200, a=733: Case 3 but has 4 factors!
+
+[Anomaly] b=200, a=829: Case 3 but has 4 factors!
+
+[Anomaly] b=200, a=917: Case 3 but has 6 factors!
+
+[Anomaly] b=200, a=941: Case 3 but has 6 factors!

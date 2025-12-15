@@ -124,6 +124,7 @@ with open(CSV_FILENAME, 'w', newline='') as csvfile:
                 # If valid math but NOT irreducible -> Counter Example Found!
                 if status == "OK":
                     print(f"\n[COUNTER EXAMPLE FOUND] a={a}, b={b} is REDUCIBLE")
+                    sys.exit(1)
 
         except Exception as e:
             writer.writerow([time.strftime("%H:%M:%S"), b, a, 0, False, "CRASH", str(e)])
@@ -133,3 +134,4 @@ print("-" * 60)
 print(f"Total Tested: {NUM_SAMPLES}")
 print(f"Consistent with Conjecture (Irreducible): {success_count}")
 print(f"Counter Examples (Reducible): {fail_count}")
+sys.exit(0)

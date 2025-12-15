@@ -2,23 +2,23 @@ name: Run Testing on Conjecture 1
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
-test:
-  runs-on: ubuntu-latest
-  
-  # CRITICAL: This tells GitHub to run steps inside a container that has Sage installed
-  container:
-    image: sagemath/sagemath:latest
+  test:
+    runs-on: ubuntu-latest
+    
+    # CRITICAL: This tells GitHub to run steps inside a container that has Sage installed
+    container:
+      image: sagemath/sagemath:latest
 
-  steps:
-  # 1. Check out your code into the container
-  - name: Checkout code
-    uses: actions/checkout@v3
+    steps:
+    # 1. Check out your code into the container
+    - name: Checkout code
+      uses: actions/checkout@v3
 
-  # 2. Run your specific test command
-  # Note: We use 'sage -python' just like you asked
-  - name: Run Testing Script
-    run: |
-      sage -python verify_conjecture.py
+    # 2. Run your specific test command
+    # Note: We use 'sage -python' just like you asked
+    - name: Run Testing Script
+      run: |
+        sage -python verify_conjecture.py
   # Explore-GitHub-Actions:
   #   runs-on: ubuntu-latest
   #   steps:
